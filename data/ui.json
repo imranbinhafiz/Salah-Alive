@@ -45,6 +45,7 @@
     "playAyah":     { "en": "Play this verse", "bn": "এই আয়াত শুনুন" },
     "listen":       { "en": "Listen", "bn": "শুনুন" },
     "playSurah":    { "en": "Play surah", "bn": "সূরা শুনুন" },
+    "listenRecitation": { "en": "Listen to recitation", "bn": "তিলাওয়াত শুনুন" },
     "iKnowThis":    { "en": "I know this", "bn": "আমি এটি জানি" },
     "known":        { "en": "Learned", "bn": "শেখা হয়েছে" },
     "background":   { "en": "Background", "bn": "পটভূমি" },

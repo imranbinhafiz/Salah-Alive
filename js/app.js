@@ -3,7 +3,7 @@ import { store } from './store.js';
 import { getLang, setLang, onLangChange, t } from './i18n.js';
 import { setUI, ui } from './ui.js';
 import { loadUI, loadConfig, loadSurahIndex } from './data.js';
-import { initAudio, onAudioChange, toggleAyah, playSurah } from './audio.js';
+import { initAudio, onAudioChange, toggleAyah, playSurah, toggleClip } from './audio.js';
 import { icon } from './components.js';
 import { defineRoutes, start, rerender } from './router.js';
 import * as views from './views/index.js';
@@ -137,6 +137,9 @@ function onClick(e) {
       playSurah(Number(el.dataset.surah), nums);
       break;
     }
+    case 'play-clip':
+      toggleClip(el.dataset.clip);
+      break;
     case 'know': {
       const done = store.toggleKnown(el.dataset.id);
       el.classList.toggle('is-done', done);
@@ -163,6 +166,13 @@ function updateAudioUI(key, playing) {
   });
   document.querySelectorAll('.ayah[data-ayah-key]').forEach((a) => {
     a.classList.toggle('is-playing', playing && a.dataset.ayahKey === key);
+  });
+  document.querySelectorAll('.audiobtn[data-clip]').forEach((btn) => {
+    const resolved = new URL(btn.dataset.clip, document.baseURI).href;
+    const on = playing && resolved === key;
+    btn.classList.toggle('is-playing', on);
+    const ico = btn.querySelector('.audiobtn__ico');
+    if (ico) ico.innerHTML = on ? icon('pause') : icon('play');
   });
 }
 

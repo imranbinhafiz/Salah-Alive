@@ -59,6 +59,13 @@ export function audioBtn(surahNum, ayahNum, label) {
             <span class="audiobtn__ico">${icon('play')}</span>${lbl}</button>`;
 }
 
+/** Audio play/pause button for a standalone clip (full Salah-step recitation). */
+export function salahAudioBtn(src, label) {
+  return `<button class="audiobtn" data-action="play-clip" data-clip="${esc(src)}"
+            aria-label="${esc(label)}">
+            <span class="audiobtn__ico">${icon('play')}</span><span>${esc(label)}</span></button>`;
+}
+
 /** "I know this ✓" progress toggle. */
 export function knowBtn(id, known) {
   return `<button class="knowbtn${known ? ' is-done' : ''}" data-action="know" data-id="${esc(id)}" aria-pressed="${!!known}">

@@ -2,7 +2,7 @@ import { t, has } from '../i18n.js';
 import { ui } from '../ui.js';
 import { store } from '../store.js';
 import { loadSalah } from '../data.js';
-import { esc, icon, disclose, wordByWord, knowBtn } from '../components.js';
+import { esc, icon, disclose, wordByWord, knowBtn, salahAudioBtn } from '../components.js';
 
 export async function salah() {
   const data = await loadSalah();
@@ -47,6 +47,7 @@ function stepBlock(s) {
       </div>
       ${has(s.arabic) ? `<p class="ar">${esc(s.arabic)}</p>` : ''}
       ${has(s.meaning) ? `<p class="ayah__trans">${esc(t(s.meaning))}</p>` : ''}
+      ${s.audio ? `<div class="row" style="margin-top:var(--s-3)">${salahAudioBtn(s.audio, t(ui('labels.listenRecitation')))}</div>` : ''}
       ${link}
       ${details.length ? `<div class="stack" style="margin-top:var(--s-3)">${details.join('')}</div>` : ''}
       <div class="row" style="margin-top:var(--s-3)">${knowBtn('salah:' + s.id, known)}</div>

@@ -48,6 +48,22 @@ export function playSurah(s, ayahNums) {
   if (queue.length) start(queue[0].surah, queue[0].ayah);
 }
 
+/**
+ * Play a standalone audio clip from a URL (e.g. a full Salah-step recitation),
+ * or pause it if that same clip is already playing. Resolves the URL against
+ * document.baseURI so it works under any GitHub Pages sub-path.
+ */
+export function toggleClip(src) {
+  const resolved = new URL(src, document.baseURI).href;
+  if (currentKey === resolved && !player.paused) { player.pause(); currentKey = null; emit(); return; }
+  queue = []; qIndex = -1;
+  currentKey = resolved;
+  player.src = resolved;
+  const p = player.play();
+  if (p && p.catch) p.catch(() => { /* needs user gesture / network */ });
+  emit();
+}
+
 export function stop() {
   if (player) player.pause();
   currentKey = null; queue = []; qIndex = -1; emit();
