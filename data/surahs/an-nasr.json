@@ -1,0 +1,234 @@
+{
+  "id": "an-nasr",
+  "number": 110,
+  "ayahCount": 3,
+  "name": {
+    "ar": "النصر",
+    "en": "An-Nasr",
+    "bn": "আন-নাসর"
+  },
+  "meaning": {
+    "en": "Divine Help",
+    "bn": "সাহায্য"
+  },
+  "oneLineMeaning": {
+    "en": "When Allah's help and victory arrive.",
+    "bn": "যখন আল্লাহর সাহায্য ও বিজয় আসে।"
+  },
+  "background": {
+    "en": "A Medinan surah, among the last revealed. It points to the conquest of Mecca, when people embraced Islam in crowds. Many companions understood it as a quiet sign that the Prophet's mission — and his life — was nearing completion.",
+    "bn": "একটি মাদানী সূরা, সর্বশেষ অবতীর্ণ সূরাগুলোর একটি। এটি মক্কা বিজয়ের দিকে ইঙ্গিত করে, যখন দলে দলে মানুষ ইসলাম গ্রহণ করছিল। অনেক সাহাবি এটিকে এক নীরব ইঙ্গিত হিসেবে বুঝেছিলেন যে নবীর দায়িত্ব — ও তাঁর জীবন — সমাপ্তির কাছাকাছি।"
+  },
+  "summary": {
+    "en": "At the very moment of greatest success, the command is not to celebrate with pride, but to glorify Allah and ask His forgiveness. Victory belongs to Him.",
+    "bn": "সবচেয়ে বড় সাফল্যের ঠিক সেই মুহূর্তে নির্দেশ হলো গর্বভরে উদযাপন নয়, বরং আল্লাহর পবিত্রতা ঘোষণা ও তাঁর কাছে ক্ষমা চাওয়া। বিজয় তাঁরই।"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "arabic": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
+      "translation": {
+        "en": "When the help of Allah and the victory come,",
+        "bn": "যখন আল্লাহর সাহায্য ও বিজয় আসবে,"
+      },
+      "words": [
+        {
+          "ar": "إِذَا",
+          "tr": {
+            "en": "Idhā",
+            "bn": "ইযা"
+          },
+          "meaning": {
+            "en": "When",
+            "bn": "যখন"
+          }
+        },
+        {
+          "ar": "جَاءَ",
+          "tr": {
+            "en": "jā'a",
+            "bn": "জাআ"
+          },
+          "meaning": {
+            "en": "comes",
+            "bn": "আসবে"
+          }
+        },
+        {
+          "ar": "نَصْرُ اللَّهِ",
+          "tr": {
+            "en": "naṣru-llāhi",
+            "bn": "নাসরুল্লাহি"
+          },
+          "meaning": {
+            "en": "the help of Allah",
+            "bn": "আল্লাহর সাহায্য"
+          }
+        },
+        {
+          "ar": "وَالْفَتْحُ",
+          "tr": {
+            "en": "wa-l-fatḥ",
+            "bn": "ওয়াল ফাতহ"
+          },
+          "meaning": {
+            "en": "and the victory",
+            "bn": "এবং বিজয়"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "arabic": "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا",
+      "translation": {
+        "en": "and you see people entering Allah's religion in crowds,",
+        "bn": "এবং তুমি দেখবে মানুষ দলে দলে আল্লাহর দ্বীনে প্রবেশ করছে,"
+      },
+      "words": [
+        {
+          "ar": "وَرَأَيْتَ",
+          "tr": {
+            "en": "Wa ra'ayta",
+            "bn": "ওয়া রাআইতা"
+          },
+          "meaning": {
+            "en": "and you see",
+            "bn": "এবং তুমি দেখবে"
+          }
+        },
+        {
+          "ar": "النَّاسَ",
+          "tr": {
+            "en": "an-nāsa",
+            "bn": "আন-নাসা"
+          },
+          "meaning": {
+            "en": "the people",
+            "bn": "মানুষকে"
+          }
+        },
+        {
+          "ar": "يَدْخُلُونَ",
+          "tr": {
+            "en": "yadkhulūna",
+            "bn": "ইয়াদখুলূনা"
+          },
+          "meaning": {
+            "en": "entering",
+            "bn": "প্রবেশ করছে"
+          }
+        },
+        {
+          "ar": "فِي دِينِ اللَّهِ",
+          "tr": {
+            "en": "fī dīni-llāhi",
+            "bn": "ফী দীনিল্লাহি"
+          },
+          "meaning": {
+            "en": "into Allah's religion",
+            "bn": "আল্লাহর দ্বীনে"
+          }
+        },
+        {
+          "ar": "أَفْوَاجًا",
+          "tr": {
+            "en": "afwājā",
+            "bn": "আফওয়াজা"
+          },
+          "meaning": {
+            "en": "in crowds",
+            "bn": "দলে দলে"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "arabic": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا",
+      "translation": {
+        "en": "then glorify the praise of your Lord and seek His forgiveness. Indeed, He is ever Accepting of repentance.",
+        "bn": "তখন তোমার রবের প্রশংসাসহ তাঁর পবিত্রতা ঘোষণা করো এবং তাঁর কাছে ক্ষমা চাও। নিশ্চয়ই তিনি তওবা কবুলকারী।"
+      },
+      "words": [
+        {
+          "ar": "فَسَبِّحْ",
+          "tr": {
+            "en": "Fa-sabbiḥ",
+            "bn": "ফাসাব্বিহ"
+          },
+          "meaning": {
+            "en": "then glorify",
+            "bn": "তখন পবিত্রতা ঘোষণা করো"
+          }
+        },
+        {
+          "ar": "بِحَمْدِ رَبِّكَ",
+          "tr": {
+            "en": "bi-ḥamdi rabbika",
+            "bn": "বিহামদি রব্বিকা"
+          },
+          "meaning": {
+            "en": "with praise of your Lord",
+            "bn": "তোমার রবের প্রশংসাসহ"
+          }
+        },
+        {
+          "ar": "وَاسْتَغْفِرْهُ",
+          "tr": {
+            "en": "wa-staghfirh",
+            "bn": "ওয়াসতাগফিরহু"
+          },
+          "meaning": {
+            "en": "and seek His forgiveness",
+            "bn": "এবং তাঁর কাছে ক্ষমা চাও"
+          }
+        },
+        {
+          "ar": "إِنَّهُ كَانَ",
+          "tr": {
+            "en": "innahu kāna",
+            "bn": "ইন্নাহু কানা"
+          },
+          "meaning": {
+            "en": "indeed He is ever",
+            "bn": "নিশ্চয়ই তিনি"
+          }
+        },
+        {
+          "ar": "تَوَّابًا",
+          "tr": {
+            "en": "tawwābā",
+            "bn": "তাওওয়াবা"
+          },
+          "meaning": {
+            "en": "Accepting of repentance",
+            "bn": "তওবা কবুলকারী"
+          }
+        }
+      ]
+    }
+  ],
+  "tafsir": {
+    "en": "Notice the lesson hidden in success: when victory finally comes, you don't take the credit. You praise Allah (it was His help) and you seek forgiveness (for any shortcoming along the way). The greatest moment of triumph becomes a moment of humility and turning back to Allah.",
+    "bn": "সাফল্যের ভেতরে লুকানো শিক্ষাটি লক্ষ করুন: বিজয় যখন অবশেষে আসে, আপনি কৃতিত্ব নেন না। আপনি আল্লাহর প্রশংসা করেন (এটি তাঁরই সাহায্য) এবং ক্ষমা চান (পথচলায় যেকোনো ত্রুটির জন্য)। বিজয়ের সবচেয়ে বড় মুহূর্তটি বিনয় ও আল্লাহর দিকে প্রত্যাবর্তনের মুহূর্তে পরিণত হয়।"
+  },
+  "lifeLessons": {
+    "en": "When something goes well — an exam passed, a goal reached — the believer's first reaction is \"Alhamdulillah\" and \"forgive me,\" not pride. Success is a gift to be thankful for, not a trophy to boast about.",
+    "bn": "যখন কিছু ভালো হয় — পরীক্ষায় পাশ, লক্ষ্য অর্জন — মুমিনের প্রথম প্রতিক্রিয়া গর্ব নয়, বরং ‘আলহামদুলিল্লাহ’ ও ‘আমাকে ক্ষমা করুন’। সাফল্য কৃতজ্ঞতার দান, অহংকারের ট্রফি নয়।"
+  },
+  "hadith": [
+    {
+      "arabic": "سُبْحَانَكَ اللَّهُمَّ رَبَّنَا وَبِحَمْدِكَ، اللَّهُمَّ اغْفِرْ لِي",
+      "transliteration": {
+        "en": "Subḥānaka-llāhumma rabbanā wa bi-ḥamdik, allāhumma-ghfir lī",
+        "bn": "সুবহানাকা আল্লাহুম্মা রব্বানা ওয়া বিহামদিক, আল্লাহুম্মাগফিরলী"
+      },
+      "text": {
+        "en": "Aisha (may Allah be pleased with her) said that after this surah was revealed, the Prophet ﷺ would often say in his bowing and prostration, \"Glory to You, O Allah our Lord, and praise; O Allah forgive me\" — acting on its command.",
+        "bn": "আয়েশা (রা.) বলেন, এই সূরা অবতীর্ণ হওয়ার পর নবী ﷺ প্রায়ই রুকু ও সিজদায় বলতেন, ‘হে আল্লাহ আমাদের রব, আপনার পবিত্রতা ও প্রশংসা; হে আল্লাহ আমাকে ক্ষমা করুন’ — সূরার নির্দেশ অনুসারে।"
+      },
+      "source": "Sahih al-Bukhari & Muslim"
+    }
+  ]
+}

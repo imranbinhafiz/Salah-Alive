@@ -1,0 +1,353 @@
+{
+  "id": "al-falaq",
+  "number": 113,
+  "ayahCount": 5,
+  "name": {
+    "ar": "الفلق",
+    "en": "Al-Falaq",
+    "bn": "আল-ফালাক"
+  },
+  "meaning": {
+    "en": "The Daybreak",
+    "bn": "ভোর"
+  },
+  "oneLineMeaning": {
+    "en": "Seeking refuge in the Lord of dawn from all harm.",
+    "bn": "সকল অনিষ্ট থেকে ভোরের রবের আশ্রয়।"
+  },
+  "background": {
+    "en": "A short Meccan surah, the second-to-last in the Qur'an. With An-Nas it forms Al-Mu'awwidhatayn — \"the two surahs of seeking refuge.\" Here we seek protection from external harms: evil in creation, the dangers of night, harmful magic, and envy.",
+    "bn": "একটি ছোট মক্কী সূরা, কুরআনের শেষের আগের সূরা। সূরা নাসের সাথে এটি ‘আল-মুআউবিযাতাইন’ — ‘আশ্রয় প্রার্থনার দুই সূরা’ গঠন করে। এখানে আমরা বাহ্যিক অনিষ্ট থেকে আশ্রয় চাই: সৃষ্টির অনিষ্ট, রাতের বিপদ, ক্ষতিকর জাদু এবং হিংসা।"
+  },
+  "summary": {
+    "en": "We turn to the Lord of the daybreak — the One who splits darkness with light — and ask Him to shield us from four named harms, ending with the harm of an envier.",
+    "bn": "আমরা ভোরের রবের দিকে ফিরি — যিনি অন্ধকারকে আলো দিয়ে চিরে দেন — এবং তাঁর কাছে চারটি নির্দিষ্ট অনিষ্ট থেকে রক্ষা চাই, যা শেষ হয় হিংসুকের অনিষ্ট দিয়ে।"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "arabic": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+      "translation": {
+        "en": "Say: I seek refuge in the Lord of the daybreak,",
+        "bn": "বলুন: আমি ভোরের রবের কাছে আশ্রয় চাই,"
+      },
+      "words": [
+        {
+          "ar": "قُلْ",
+          "tr": {
+            "en": "Qul",
+            "bn": "কুল"
+          },
+          "meaning": {
+            "en": "Say",
+            "bn": "বলুন"
+          }
+        },
+        {
+          "ar": "أَعُوذُ",
+          "tr": {
+            "en": "aʿūdhu",
+            "bn": "আঊযু"
+          },
+          "meaning": {
+            "en": "I seek refuge",
+            "bn": "আমি আশ্রয় চাই"
+          }
+        },
+        {
+          "ar": "بِرَبِّ",
+          "tr": {
+            "en": "bi-rabbi",
+            "bn": "বিরব্বি"
+          },
+          "meaning": {
+            "en": "in the Lord of",
+            "bn": "রবের কাছে"
+          }
+        },
+        {
+          "ar": "الْفَلَقِ",
+          "tr": {
+            "en": "al-falaq",
+            "bn": "আল-ফালাক"
+          },
+          "meaning": {
+            "en": "the daybreak",
+            "bn": "ভোরের"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "arabic": "مِن شَرِّ مَا خَلَقَ",
+      "translation": {
+        "en": "from the evil of what He has created,",
+        "bn": "তিনি যা সৃষ্টি করেছেন তার অনিষ্ট থেকে,"
+      },
+      "words": [
+        {
+          "ar": "مِن",
+          "tr": {
+            "en": "min",
+            "bn": "মিন"
+          },
+          "meaning": {
+            "en": "from",
+            "bn": "থেকে"
+          }
+        },
+        {
+          "ar": "شَرِّ",
+          "tr": {
+            "en": "sharri",
+            "bn": "শাররি"
+          },
+          "meaning": {
+            "en": "the evil of",
+            "bn": "অনিষ্ট"
+          }
+        },
+        {
+          "ar": "مَا",
+          "tr": {
+            "en": "mā",
+            "bn": "মা"
+          },
+          "meaning": {
+            "en": "what",
+            "bn": "যা"
+          }
+        },
+        {
+          "ar": "خَلَقَ",
+          "tr": {
+            "en": "khalaq",
+            "bn": "খালাক"
+          },
+          "meaning": {
+            "en": "He created",
+            "bn": "তিনি সৃষ্টি করেছেন"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "arabic": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "translation": {
+        "en": "and from the evil of darkness when it settles,",
+        "bn": "এবং রাতের অন্ধকারের অনিষ্ট থেকে যখন তা ঘনিয়ে আসে,"
+      },
+      "words": [
+        {
+          "ar": "وَمِن",
+          "tr": {
+            "en": "wa min",
+            "bn": "ওয়া মিন"
+          },
+          "meaning": {
+            "en": "and from",
+            "bn": "এবং থেকে"
+          }
+        },
+        {
+          "ar": "شَرِّ",
+          "tr": {
+            "en": "sharri",
+            "bn": "শাররি"
+          },
+          "meaning": {
+            "en": "the evil of",
+            "bn": "অনিষ্ট"
+          }
+        },
+        {
+          "ar": "غَاسِقٍ",
+          "tr": {
+            "en": "ghāsiqin",
+            "bn": "গাসিকিন"
+          },
+          "meaning": {
+            "en": "darkness / the night",
+            "bn": "অন্ধকার রাত"
+          }
+        },
+        {
+          "ar": "إِذَا",
+          "tr": {
+            "en": "idhā",
+            "bn": "ইযা"
+          },
+          "meaning": {
+            "en": "when",
+            "bn": "যখন"
+          }
+        },
+        {
+          "ar": "وَقَبَ",
+          "tr": {
+            "en": "waqab",
+            "bn": "ওয়াকাব"
+          },
+          "meaning": {
+            "en": "it settles in",
+            "bn": "ঘনিয়ে আসে"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "arabic": "وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
+      "translation": {
+        "en": "and from the evil of those who blow on knots,",
+        "bn": "এবং গিঁটে ফুঁকদানকারিণীদের অনিষ্ট থেকে,"
+      },
+      "words": [
+        {
+          "ar": "وَمِن",
+          "tr": {
+            "en": "wa min",
+            "bn": "ওয়া মিন"
+          },
+          "meaning": {
+            "en": "and from",
+            "bn": "এবং থেকে"
+          }
+        },
+        {
+          "ar": "شَرِّ",
+          "tr": {
+            "en": "sharri",
+            "bn": "শাররি"
+          },
+          "meaning": {
+            "en": "the evil of",
+            "bn": "অনিষ্ট"
+          }
+        },
+        {
+          "ar": "النَّفَّاثَاتِ",
+          "tr": {
+            "en": "an-naffāthāti",
+            "bn": "আন-নাফফাসাতি"
+          },
+          "meaning": {
+            "en": "those who blow",
+            "bn": "ফুঁকদানকারিণীরা"
+          }
+        },
+        {
+          "ar": "فِي",
+          "tr": {
+            "en": "fi",
+            "bn": "ফি"
+          },
+          "meaning": {
+            "en": "on / in",
+            "bn": "মধ্যে"
+          }
+        },
+        {
+          "ar": "الْعُقَدِ",
+          "tr": {
+            "en": "al-ʿuqad",
+            "bn": "আল-উকাদ"
+          },
+          "meaning": {
+            "en": "the knots",
+            "bn": "গিঁট"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "arabic": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "translation": {
+        "en": "and from the evil of an envier when he envies.",
+        "bn": "এবং হিংসুকের অনিষ্ট থেকে যখন সে হিংসা করে।"
+      },
+      "words": [
+        {
+          "ar": "وَمِن",
+          "tr": {
+            "en": "wa min",
+            "bn": "ওয়া মিন"
+          },
+          "meaning": {
+            "en": "and from",
+            "bn": "এবং থেকে"
+          }
+        },
+        {
+          "ar": "شَرِّ",
+          "tr": {
+            "en": "sharri",
+            "bn": "শাররি"
+          },
+          "meaning": {
+            "en": "the evil of",
+            "bn": "অনিষ্ট"
+          }
+        },
+        {
+          "ar": "حَاسِدٍ",
+          "tr": {
+            "en": "ḥāsidin",
+            "bn": "হাসিদিন"
+          },
+          "meaning": {
+            "en": "an envier",
+            "bn": "হিংসুক"
+          }
+        },
+        {
+          "ar": "إِذَا",
+          "tr": {
+            "en": "idhā",
+            "bn": "ইযা"
+          },
+          "meaning": {
+            "en": "when",
+            "bn": "যখন"
+          }
+        },
+        {
+          "ar": "حَسَدَ",
+          "tr": {
+            "en": "ḥasad",
+            "bn": "হাসাদ"
+          },
+          "meaning": {
+            "en": "he envies",
+            "bn": "সে হিংসা করে"
+          }
+        }
+      ]
+    }
+  ],
+  "tafsir": {
+    "en": "\"Falaq\" is the breaking of dawn — a daily reminder that Allah brings light out of darkness, so He can bring relief out of any hardship. We then name real harms we cannot fully see or control: creation's evil in general, the night when danger hides, harmful magic, and the quiet poison of envy. Naming them and handing them to Allah is itself the protection.",
+    "bn": "‘ফালাক’ অর্থ ভোরের উন্মোচন — প্রতিদিনের এক স্মারক যে আল্লাহ অন্ধকার থেকে আলো আনেন, তেমনি যেকোনো কষ্ট থেকে স্বস্তি আনতে পারেন। এরপর আমরা এমন কিছু বাস্তব অনিষ্টের নাম নিই যা আমরা পুরোপুরি দেখতে বা নিয়ন্ত্রণ করতে পারি না: সৃষ্টির সাধারণ অনিষ্ট, রাত যখন বিপদ লুকায়, ক্ষতিকর জাদু, এবং হিংসার নীরব বিষ। এগুলোর নাম নিয়ে আল্লাহর হাতে সমর্পণ করাই হলো সুরক্ষা।"
+  },
+  "lifeLessons": {
+    "en": "Some dangers are beyond our control — but none are beyond Allah's. This surah teaches us to face fear not by worrying, but by seeking refuge. It also warns that envy is a real harm; we guard against receiving it, and against carrying it in our own hearts.",
+    "bn": "কিছু বিপদ আমাদের নিয়ন্ত্রণের বাইরে — কিন্তু আল্লাহর নিয়ন্ত্রণের বাইরে কিছুই নয়। এই সূরা শেখায় ভয়কে দুশ্চিন্তা দিয়ে নয়, আশ্রয় চেয়ে মোকাবিলা করতে। এটি এও সতর্ক করে যে হিংসা একটি বাস্তব অনিষ্ট; আমরা তা থেকে রক্ষা চাই, আবার নিজ অন্তরে তা বহন করা থেকেও সতর্ক থাকি।"
+  },
+  "hadith": [
+    {
+      "arabic": "اقْرَأْ قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ … مَا تَعَوَّذَ بِمِثْلِهِنَّ",
+      "transliteration": {
+        "en": "Iqra' Qul aʿūdhu bi-rabbi-l-falaq…",
+        "bn": "ইকরা’ কুল আঊযু বিরব্বিল ফালাক…"
+      },
+      "text": {
+        "en": "The Prophet ﷺ told Uqbah ibn Amir to recite Al-Falaq and An-Nas, saying no one has ever sought refuge with anything like them. He also taught reciting them after every prayer.",
+        "bn": "নবী ﷺ উকবা ইবন আমিরকে সূরা ফালাক ও নাস পড়তে বলে জানান, এ দুটির মতো কিছু দিয়ে কেউ কখনো আশ্রয় চায়নি। তিনি প্রতি নামাজের পর এগুলো পড়তেও শিখিয়েছেন।"
+      },
+      "source": "Sahih Muslim; Sunan an-Nasa'i"
+    }
+  ]
+}

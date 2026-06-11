@@ -1,0 +1,340 @@
+{
+  "id": "al-maun",
+  "number": 107,
+  "ayahCount": 7,
+  "name": {
+    "ar": "الماعون",
+    "en": "Al-Ma'un",
+    "bn": "আল-মাউন"
+  },
+  "meaning": {
+    "en": "Small Kindnesses",
+    "bn": "সামান্য সাহায্য"
+  },
+  "oneLineMeaning": {
+    "en": "Faith shows in how we treat the orphan and the needy.",
+    "bn": "ঈমান প্রকাশ পায় এতিম ও অভাবীর প্রতি আচরণে।"
+  },
+  "background": {
+    "en": "A short Meccan surah that exposes a kind of false religion: people who claim belief but have no compassion, and who pray only for show. It links real faith directly to how we treat the weakest people around us.",
+    "bn": "একটি ছোট মক্কী সূরা যা এক ধরনের মিথ্যা ধর্মকে উন্মোচন করে: যারা ঈমানের দাবি করে কিন্তু যাদের কোনো দয়া নেই, এবং যারা কেবল লোক-দেখানোর জন্য নামাজ পড়ে। এটি প্রকৃত ঈমানকে সরাসরি যুক্ত করে আমাদের আশেপাশের সবচেয়ে দুর্বল মানুষদের প্রতি আচরণের সাথে।"
+  },
+  "summary": {
+    "en": "The one who denies the Day of Judgment shows it by harshness — pushing away the orphan and ignoring the hungry. Then a warning to \"worshippers\" whose prayer is careless and for show, and who refuse even small acts of help. True faith is mercy in action.",
+    "bn": "যে বিচার দিবসকে অস্বীকার করে, তা প্রকাশ পায় তার কঠোরতায় — এতিমকে দূরে ঠেলে দেওয়া ও ক্ষুধার্তকে উপেক্ষা করায়। এরপর সতর্কবাণী সেই ‘মুসল্লিদের’ প্রতি যাদের নামাজ অমনোযোগী ও লোক-দেখানো, এবং যারা সামান্য সাহায্যও করতে অস্বীকার করে। প্রকৃত ঈমান হলো কাজে প্রকাশিত দয়া।"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "arabic": "أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ",
+      "translation": {
+        "en": "Have you seen the one who denies the Recompense (Day of Judgment)?",
+        "bn": "আপনি কি তাকে দেখেছেন, যে প্রতিদান-দিবসকে (কিয়ামতকে) অস্বীকার করে?"
+      },
+      "words": [
+        {
+          "ar": "أَرَأَيْتَ",
+          "tr": {
+            "en": "Ara'ayta",
+            "bn": "আরাআইতা"
+          },
+          "meaning": {
+            "en": "Have you seen",
+            "bn": "আপনি কি দেখেছেন"
+          }
+        },
+        {
+          "ar": "الَّذِي",
+          "tr": {
+            "en": "alladhī",
+            "bn": "আল্লাযী"
+          },
+          "meaning": {
+            "en": "the one who",
+            "bn": "সে, যে"
+          }
+        },
+        {
+          "ar": "يُكَذِّبُ",
+          "tr": {
+            "en": "yukadhdhibu",
+            "bn": "ইউকাযযিবু"
+          },
+          "meaning": {
+            "en": "denies",
+            "bn": "অস্বীকার করে"
+          }
+        },
+        {
+          "ar": "بِالدِّينِ",
+          "tr": {
+            "en": "bi-d-dīn",
+            "bn": "বিদ্দীন"
+          },
+          "meaning": {
+            "en": "the Recompense",
+            "bn": "প্রতিদান-দিবস"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "arabic": "فَذَٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ",
+      "translation": {
+        "en": "That is the one who drives away the orphan,",
+        "bn": "সে-ই, যে এতিমকে রূঢ়ভাবে দূরে ঠেলে দেয়,"
+      },
+      "words": [
+        {
+          "ar": "فَذَٰلِكَ",
+          "tr": {
+            "en": "Fa-dhālika",
+            "bn": "ফাযালিকা"
+          },
+          "meaning": {
+            "en": "That is",
+            "bn": "সে-ই"
+          }
+        },
+        {
+          "ar": "الَّذِي",
+          "tr": {
+            "en": "alladhī",
+            "bn": "আল্লাযী"
+          },
+          "meaning": {
+            "en": "the one who",
+            "bn": "যে"
+          }
+        },
+        {
+          "ar": "يَدُعُّ",
+          "tr": {
+            "en": "yaduʿʿu",
+            "bn": "ইয়াদু‘উ"
+          },
+          "meaning": {
+            "en": "drives away / repulses",
+            "bn": "রূঢ়ভাবে দূরে ঠেলে"
+          }
+        },
+        {
+          "ar": "الْيَتِيمَ",
+          "tr": {
+            "en": "al-yatīm",
+            "bn": "আল-ইয়াতীম"
+          },
+          "meaning": {
+            "en": "the orphan",
+            "bn": "এতিমকে"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "arabic": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ",
+      "translation": {
+        "en": "and does not encourage feeding the poor.",
+        "bn": "এবং অভাবীকে খাওয়াতে উৎসাহ দেয় না।"
+      },
+      "words": [
+        {
+          "ar": "وَلَا يَحُضُّ",
+          "tr": {
+            "en": "Wa lā yaḥuḍḍu",
+            "bn": "ওয়া লা ইয়াহুদ্দু"
+          },
+          "meaning": {
+            "en": "and does not urge",
+            "bn": "এবং উৎসাহ দেয় না"
+          }
+        },
+        {
+          "ar": "عَلَىٰ طَعَامِ",
+          "tr": {
+            "en": "ʿalā ṭaʿāmi",
+            "bn": "আলা তা‘আমি"
+          },
+          "meaning": {
+            "en": "the feeding of",
+            "bn": "খাওয়ানোর প্রতি"
+          }
+        },
+        {
+          "ar": "الْمِسْكِينِ",
+          "tr": {
+            "en": "al-miskīn",
+            "bn": "আল-মিসকীন"
+          },
+          "meaning": {
+            "en": "the poor",
+            "bn": "অভাবীকে"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "arabic": "فَوَيْلٌ لِّلْمُصَلِّينَ",
+      "translation": {
+        "en": "So woe to those who pray —",
+        "bn": "অতএব দুর্ভোগ সেই নামাজিদের জন্য —"
+      },
+      "words": [
+        {
+          "ar": "فَوَيْلٌ",
+          "tr": {
+            "en": "Fa-waylun",
+            "bn": "ফাওয়াইলুন"
+          },
+          "meaning": {
+            "en": "So woe",
+            "bn": "অতএব দুর্ভোগ"
+          }
+        },
+        {
+          "ar": "لِّلْمُصَلِّينَ",
+          "tr": {
+            "en": "li-l-muṣallīn",
+            "bn": "লিল মুসাল্লীন"
+          },
+          "meaning": {
+            "en": "to those who pray",
+            "bn": "নামাজিদের জন্য"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "arabic": "الَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+      "translation": {
+        "en": "who are heedless of their prayer,",
+        "bn": "যারা তাদের নামাজ সম্পর্কে উদাসীন,"
+      },
+      "words": [
+        {
+          "ar": "الَّذِينَ هُمْ",
+          "tr": {
+            "en": "Alladhīna hum",
+            "bn": "আল্লাযীনা হুম"
+          },
+          "meaning": {
+            "en": "those who",
+            "bn": "যারা"
+          }
+        },
+        {
+          "ar": "عَن صَلَاتِهِمْ",
+          "tr": {
+            "en": "ʿan ṣalātihim",
+            "bn": "আন সালাতিহিম"
+          },
+          "meaning": {
+            "en": "of their prayer",
+            "bn": "তাদের নামাজ সম্পর্কে"
+          }
+        },
+        {
+          "ar": "سَاهُونَ",
+          "tr": {
+            "en": "sāhūn",
+            "bn": "সাহূন"
+          },
+          "meaning": {
+            "en": "are heedless",
+            "bn": "উদাসীন"
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "arabic": "الَّذِينَ هُمْ يُرَاءُونَ",
+      "translation": {
+        "en": "those who make a show (of their deeds),",
+        "bn": "যারা লোক-দেখানোর জন্য (আমল) করে,"
+      },
+      "words": [
+        {
+          "ar": "الَّذِينَ هُمْ",
+          "tr": {
+            "en": "Alladhīna hum",
+            "bn": "আল্লাযীনা হুম"
+          },
+          "meaning": {
+            "en": "those who",
+            "bn": "যারা"
+          }
+        },
+        {
+          "ar": "يُرَاءُونَ",
+          "tr": {
+            "en": "yurā'ūn",
+            "bn": "ইউরাউন"
+          },
+          "meaning": {
+            "en": "show off",
+            "bn": "লোক-দেখানো করে"
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "arabic": "وَيَمْنَعُونَ الْمَاعُونَ",
+      "translation": {
+        "en": "and withhold small kindnesses (simple assistance).",
+        "bn": "এবং সামান্য সাহায্যটুকুও আটকে রাখে।"
+      },
+      "words": [
+        {
+          "ar": "وَيَمْنَعُونَ",
+          "tr": {
+            "en": "Wa yamnaʿūna",
+            "bn": "ওয়া ইয়ামনা‘ঊনা"
+          },
+          "meaning": {
+            "en": "and withhold",
+            "bn": "এবং আটকে রাখে"
+          }
+        },
+        {
+          "ar": "الْمَاعُونَ",
+          "tr": {
+            "en": "al-māʿūn",
+            "bn": "আল-মাঊন"
+          },
+          "meaning": {
+            "en": "small kindnesses / common needs",
+            "bn": "সামান্য সাহায্য / প্রয়োজনীয় বস্তু"
+          }
+        }
+      ]
+    }
+  ],
+  "tafsir": {
+    "en": "The surah draws a straight line between belief and behaviour. Someone who truly believes in the Day of Judgment cannot be cruel to an orphan or indifferent to the hungry. Then it turns to prayer: the danger is not in praying, but in praying carelessly and for show, while refusing even \"al-ma'un\" — the small everyday helps (lending a tool, sharing water). Worship that doesn't soften the heart toward people is missing its purpose.",
+    "bn": "সূরাটি বিশ্বাস ও আচরণের মধ্যে একটি সরলরেখা টানে। যে সত্যিকার অর্থে বিচার দিবসে বিশ্বাস করে, সে এতিমের প্রতি নিষ্ঠুর বা ক্ষুধার্তের প্রতি উদাসীন হতে পারে না। এরপর এটি নামাজের দিকে ফেরে: বিপদ নামাজ পড়ায় নয়, বরং অমনোযোগীভাবে ও লোক-দেখানোর জন্য পড়ায়, যখন ‘আল-মাঊন’ — দৈনন্দিন সামান্য সাহায্য (একটি জিনিস ধার দেওয়া, পানি ভাগ করা) — পর্যন্ত অস্বীকার করা হয়। যে ইবাদত মানুষের প্রতি অন্তরকে কোমল করে না, তা তার উদ্দেশ্যই হারিয়ে ফেলে।"
+  },
+  "lifeLessons": {
+    "en": "Check your faith by your kindness. Do you notice the orphan, the struggling, the hungry? Is your prayer present — or rushed and for others' eyes? And are you generous with the small things people borrow and need? Real religion lives in these everyday details.",
+    "bn": "আপনার দয়া দিয়ে আপনার ঈমান যাচাই করুন। আপনি কি এতিম, সংগ্রামরত, ক্ষুধার্তকে লক্ষ করেন? আপনার নামাজ কি উপস্থিত-অন্তরের — নাকি তাড়াহুড়ো ও অন্যের চোখের জন্য? আর মানুষ যে ছোট জিনিসগুলো ধার চায় ও প্রয়োজন বোধ করে, তাতে আপনি কি উদার? প্রকৃত ধর্ম এই দৈনন্দিন খুঁটিনাটিতেই বাস করে।"
+  },
+  "hadith": [
+    {
+      "arabic": "لَيْسَ الْمُؤْمِنُ الَّذِي يَشْبَعُ وَجَارُهُ جَائِعٌ إِلَىٰ جَنْبِهِ",
+      "transliteration": {
+        "en": "Laysa-l-mu'minu-lladhī yashbaʿu wa jāruhu jā'iʿun ilā janbih",
+        "bn": "লাইসাল মু’মিনুল্লাযী ইয়াশবা‘উ ওয়া জারুহু জাইউন ইলা জানবিহ"
+      },
+      "text": {
+        "en": "The Prophet ﷺ said: \"He is not a (complete) believer who eats his fill while his neighbour beside him goes hungry.\" — faith and caring for others cannot be separated.",
+        "bn": "নবী ﷺ বলেছেন: ‘সে (পূর্ণ) মুমিন নয়, যে পেট ভরে খায় অথচ তার পাশের প্রতিবেশী ক্ষুধার্ত থাকে।’ — ঈমান ও অন্যের প্রতি যত্ন আলাদা করা যায় না।"
+      },
+      "source": "al-Adab al-Mufrad (al-Bukhari); authenticated"
+    }
+  ]
+}

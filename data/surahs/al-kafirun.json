@@ -1,0 +1,319 @@
+{
+  "id": "al-kafirun",
+  "number": 109,
+  "ayahCount": 6,
+  "name": {
+    "ar": "الكافرون",
+    "en": "Al-Kafirun",
+    "bn": "আল-কাফিরুন"
+  },
+  "meaning": {
+    "en": "The Disbelievers",
+    "bn": "অবিশ্বাসীগণ"
+  },
+  "oneLineMeaning": {
+    "en": "Clear separation in worship: \"For you your way, for me mine.\"",
+    "bn": "ইবাদতে স্পষ্ট পার্থক্য: ‘তোমার দ্বীন তোমার, আমার দ্বীন আমার।’"
+  },
+  "background": {
+    "en": "A Meccan surah revealed when the chiefs of Quraysh proposed a compromise: the Prophet ﷺ would worship their idols for a year, and they would worship Allah for a year. This surah closed that door completely — there is no mixing in worship.",
+    "bn": "একটি মক্কী সূরা, যা তখন অবতীর্ণ হয় যখন কুরাইশ নেতারা একটি আপস প্রস্তাব দেয়: নবী ﷺ এক বছর তাদের মূর্তির পূজা করবেন, আর তারা এক বছর আল্লাহর ইবাদত করবে। এই সূরা সে দরজা সম্পূর্ণ বন্ধ করে দেয় — ইবাদতে কোনো মিশ্রণ নেই।"
+  },
+  "summary": {
+    "en": "A firm, respectful declaration of independence in faith: my worship is for Allah alone, yours is yours. It is not hatred — it is honesty. \"For you is your religion, and for me is mine.\"",
+    "bn": "ঈমানে এক দৃঢ় অথচ শালীন স্বাধীনতার ঘোষণা: আমার ইবাদত কেবল আল্লাহর জন্য, তোমারটা তোমার। এটি ঘৃণা নয় — এটি সততা। ‘তোমার দ্বীন তোমার, আর আমার দ্বীন আমার।’"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "arabic": "قُلْ يَا أَيُّهَا الْكَافِرُونَ",
+      "translation": {
+        "en": "Say: O you who disbelieve,",
+        "bn": "বলুন: হে অবিশ্বাসীরা,"
+      },
+      "words": [
+        {
+          "ar": "قُلْ",
+          "tr": {
+            "en": "Qul",
+            "bn": "কুল"
+          },
+          "meaning": {
+            "en": "Say",
+            "bn": "বলুন"
+          }
+        },
+        {
+          "ar": "يَا أَيُّهَا",
+          "tr": {
+            "en": "yā ayyuhā",
+            "bn": "ইয়া আইয়ুহা"
+          },
+          "meaning": {
+            "en": "O you",
+            "bn": "হে"
+          }
+        },
+        {
+          "ar": "الْكَافِرُونَ",
+          "tr": {
+            "en": "al-kāfirūn",
+            "bn": "আল-কাফিরূন"
+          },
+          "meaning": {
+            "en": "who disbelieve",
+            "bn": "অবিশ্বাসীরা"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "arabic": "لَا أَعْبُدُ مَا تَعْبُدُونَ",
+      "translation": {
+        "en": "I do not worship what you worship,",
+        "bn": "আমি তা ইবাদত করি না যা তোমরা ইবাদত করো,"
+      },
+      "words": [
+        {
+          "ar": "لَا أَعْبُدُ",
+          "tr": {
+            "en": "Lā aʿbudu",
+            "bn": "লা আ‘বুদু"
+          },
+          "meaning": {
+            "en": "I do not worship",
+            "bn": "আমি ইবাদত করি না"
+          }
+        },
+        {
+          "ar": "مَا",
+          "tr": {
+            "en": "mā",
+            "bn": "মা"
+          },
+          "meaning": {
+            "en": "what",
+            "bn": "যা"
+          }
+        },
+        {
+          "ar": "تَعْبُدُونَ",
+          "tr": {
+            "en": "taʿbudūn",
+            "bn": "তা‘বুদূন"
+          },
+          "meaning": {
+            "en": "you worship",
+            "bn": "তোমরা ইবাদত করো"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "arabic": "وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ",
+      "translation": {
+        "en": "nor do you worship what I worship.",
+        "bn": "এবং তোমরাও তা ইবাদত করো না যা আমি ইবাদত করি।"
+      },
+      "words": [
+        {
+          "ar": "وَلَا أَنتُمْ",
+          "tr": {
+            "en": "Wa lā antum",
+            "bn": "ওয়া লা আনতুম"
+          },
+          "meaning": {
+            "en": "nor are you",
+            "bn": "এবং তোমরাও নও"
+          }
+        },
+        {
+          "ar": "عَابِدُونَ",
+          "tr": {
+            "en": "ʿābidūna",
+            "bn": "আবিদূনা"
+          },
+          "meaning": {
+            "en": "worshippers of",
+            "bn": "ইবাদতকারী"
+          }
+        },
+        {
+          "ar": "مَا أَعْبُدُ",
+          "tr": {
+            "en": "mā aʿbud",
+            "bn": "মা আ‘বুদ"
+          },
+          "meaning": {
+            "en": "what I worship",
+            "bn": "যা আমি ইবাদত করি"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "arabic": "وَلَا أَنَا عَابِدٌ مَّا عَبَدتُّمْ",
+      "translation": {
+        "en": "Nor will I worship what you worship,",
+        "bn": "এবং আমি তা ইবাদতকারী নই যা তোমরা ইবাদত করেছ,"
+      },
+      "words": [
+        {
+          "ar": "وَلَا أَنَا",
+          "tr": {
+            "en": "Wa lā anā",
+            "bn": "ওয়া লা আনা"
+          },
+          "meaning": {
+            "en": "Nor am I",
+            "bn": "এবং আমিও নই"
+          }
+        },
+        {
+          "ar": "عَابِدٌ",
+          "tr": {
+            "en": "ʿābidun",
+            "bn": "আবিদুন"
+          },
+          "meaning": {
+            "en": "a worshipper of",
+            "bn": "ইবাদতকারী"
+          }
+        },
+        {
+          "ar": "مَّا عَبَدتُّمْ",
+          "tr": {
+            "en": "mā ʿabattum",
+            "bn": "মা আবাত্তুম"
+          },
+          "meaning": {
+            "en": "what you have worshipped",
+            "bn": "যা তোমরা ইবাদত করেছ"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "arabic": "وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ",
+      "translation": {
+        "en": "nor will you worship what I worship.",
+        "bn": "এবং তোমরাও তা ইবাদতকারী নও যা আমি ইবাদত করি।"
+      },
+      "words": [
+        {
+          "ar": "وَلَا أَنتُمْ",
+          "tr": {
+            "en": "Wa lā antum",
+            "bn": "ওয়া লা আনতুম"
+          },
+          "meaning": {
+            "en": "nor are you",
+            "bn": "এবং তোমরাও নও"
+          }
+        },
+        {
+          "ar": "عَابِدُونَ",
+          "tr": {
+            "en": "ʿābidūna",
+            "bn": "আবিদূনা"
+          },
+          "meaning": {
+            "en": "worshippers of",
+            "bn": "ইবাদতকারী"
+          }
+        },
+        {
+          "ar": "مَا أَعْبُدُ",
+          "tr": {
+            "en": "mā aʿbud",
+            "bn": "মা আ‘বুদ"
+          },
+          "meaning": {
+            "en": "what I worship",
+            "bn": "যা আমি ইবাদত করি"
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "arabic": "لَكُمْ دِينُكُمْ وَلِيَ دِينِ",
+      "translation": {
+        "en": "For you is your religion, and for me is my religion.",
+        "bn": "তোমাদের জন্য তোমাদের দ্বীন, আর আমার জন্য আমার দ্বীন।"
+      },
+      "words": [
+        {
+          "ar": "لَكُمْ",
+          "tr": {
+            "en": "Lakum",
+            "bn": "লাকুম"
+          },
+          "meaning": {
+            "en": "For you",
+            "bn": "তোমাদের জন্য"
+          }
+        },
+        {
+          "ar": "دِينُكُمْ",
+          "tr": {
+            "en": "dīnukum",
+            "bn": "দীনুকুম"
+          },
+          "meaning": {
+            "en": "is your religion",
+            "bn": "তোমাদের দ্বীন"
+          }
+        },
+        {
+          "ar": "وَلِيَ",
+          "tr": {
+            "en": "wa liya",
+            "bn": "ওয়া লিয়া"
+          },
+          "meaning": {
+            "en": "and for me",
+            "bn": "আর আমার জন্য"
+          }
+        },
+        {
+          "ar": "دِينِ",
+          "tr": {
+            "en": "dīn",
+            "bn": "দীন"
+          },
+          "meaning": {
+            "en": "is my religion",
+            "bn": "আমার দ্বীন"
+          }
+        }
+      ]
+    }
+  ],
+  "tafsir": {
+    "en": "The repetition is deliberate: it shuts the door on compromise firmly and forever. Worship of Allah cannot be half-mixed with worship of anything else. Yet the final verse is not a call to fight — it is a calm boundary: \"For you is your religion, and for me is mine.\" Clarity with respect.",
+    "bn": "পুনরাবৃত্তিটি ইচ্ছাকৃত: এটি আপসের দরজা দৃঢ়ভাবে এবং চিরতরে বন্ধ করে দেয়। আল্লাহর ইবাদত অন্য কিছুর ইবাদতের সাথে অর্ধেক-মিশ্রিত হতে পারে না। তবু শেষ আয়াতটি যুদ্ধের আহ্বান নয় — এটি একটি শান্ত সীমারেখা: ‘তোমার দ্বীন তোমার, আমার দ্বীন আমার।’ সম্মানের সাথে স্পষ্টতা।"
+  },
+  "lifeLessons": {
+    "en": "You can be kind and respectful to people of other beliefs while staying completely clear about your own worship. Tawhid is not negotiable, but how we carry it can still be gentle. This surah is a model of principled, peaceful firmness.",
+    "bn": "আপনি অন্য বিশ্বাসের মানুষের প্রতি সদয় ও শ্রদ্ধাশীল থাকতে পারেন, অথচ নিজের ইবাদত সম্পর্কে সম্পূর্ণ স্পষ্ট থাকতে পারেন। তাওহিদে কোনো দরকষাকষি নেই, তবু তা বহন করার ভঙ্গি কোমল হতে পারে। এই সূরা নীতিনিষ্ঠ, শান্তিপূর্ণ দৃঢ়তার এক আদর্শ।"
+  },
+  "hadith": [
+    {
+      "arabic": "نِعْمَ السُّورَتَانِ هُمَا… قُلْ يَا أَيُّهَا الْكَافِرُونَ وَقُلْ هُوَ اللَّهُ أَحَدٌ",
+      "transliteration": {
+        "en": "…Qul yā ayyuha-l-kāfirūn wa Qul huwa-llāhu aḥad",
+        "bn": "…কুল ইয়া আইয়ুহাল কাফিরূন ওয়া কুল হুওয়াল্লাহু আহাদ"
+      },
+      "text": {
+        "en": "The Prophet ﷺ used to recite Al-Kafirun and Al-Ikhlas together in the two sunnah units before Fajr and after Maghrib — pairing the rejection of false worship with the pure affirmation of Allah's oneness.",
+        "bn": "নবী ﷺ ফজরের পূর্বের ও মাগরিবের পরের দুই সুন্নত রাকাতে সূরা কাফিরুন ও ইখলাস একসাথে পড়তেন — মিথ্যা ইবাদতের প্রত্যাখ্যানকে আল্লাহর একত্বের নির্ভেজাল ঘোষণার সাথে মিলিয়ে।"
+      },
+      "source": "Sahih Muslim"
+    }
+  ]
+}

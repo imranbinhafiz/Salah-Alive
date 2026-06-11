@@ -1,0 +1,68 @@
+[
+  {
+    "id": "al-fatiha", "number": 1, "ayahCount": 7,
+    "name": { "ar": "الفاتحة", "en": "Al-Fatiha", "bn": "আল-ফাতিহা" },
+    "meaning": { "en": "The Opening", "bn": "সূচনা" },
+    "oneLineMeaning": { "en": "The opening prayer — recited in every rak'ah.", "bn": "উদ্বোধনী দোয়া — প্রতিটি রাকাতে পঠিত।" }
+  },
+  {
+    "id": "an-nas", "number": 114, "ayahCount": 6,
+    "name": { "ar": "الناس", "en": "An-Nas", "bn": "আন-নাস" },
+    "meaning": { "en": "Mankind", "bn": "মানবজাতি" },
+    "oneLineMeaning": { "en": "Seeking Allah's refuge from the whisperer.", "bn": "কুমন্ত্রণাদাতা থেকে আল্লাহর আশ্রয় চাওয়া।" }
+  },
+  {
+    "id": "al-falaq", "number": 113, "ayahCount": 5,
+    "name": { "ar": "الفلق", "en": "Al-Falaq", "bn": "আল-ফালাক" },
+    "meaning": { "en": "The Daybreak", "bn": "ভোর" },
+    "oneLineMeaning": { "en": "Seeking refuge in the Lord of dawn from all harm.", "bn": "সকল অনিষ্ট থেকে ভোরের রবের আশ্রয়।" }
+  },
+  {
+    "id": "al-ikhlas", "number": 112, "ayahCount": 4,
+    "name": { "ar": "الإخلاص", "en": "Al-Ikhlas", "bn": "আল-ইখলাস" },
+    "meaning": { "en": "Sincerity", "bn": "একনিষ্ঠতা" },
+    "oneLineMeaning": { "en": "The pure declaration of Allah's oneness.", "bn": "আল্লাহর একত্বের নির্ভেজাল ঘোষণা।" }
+  },
+  {
+    "id": "al-masad", "number": 111, "ayahCount": 5,
+    "name": { "ar": "المسد", "en": "Al-Masad", "bn": "আল-মাসাদ" },
+    "meaning": { "en": "The Palm Fiber", "bn": "পাকানো রশি" },
+    "oneLineMeaning": { "en": "The ruin of Abu Lahab, who opposed the truth.", "bn": "সত্যবিরোধী আবু লাহাবের পরিণতি।" }
+  },
+  {
+    "id": "an-nasr", "number": 110, "ayahCount": 3,
+    "name": { "ar": "النصر", "en": "An-Nasr", "bn": "আন-নাসর" },
+    "meaning": { "en": "Divine Help", "bn": "সাহায্য" },
+    "oneLineMeaning": { "en": "When Allah's help and victory arrive.", "bn": "যখন আল্লাহর সাহায্য ও বিজয় আসে।" }
+  },
+  {
+    "id": "al-kafirun", "number": 109, "ayahCount": 6,
+    "name": { "ar": "الكافرون", "en": "Al-Kafirun", "bn": "আল-কাফিরুন" },
+    "meaning": { "en": "The Disbelievers", "bn": "অবিশ্বাসীগণ" },
+    "oneLineMeaning": { "en": "Clear separation in worship: \"For you your way, for me mine.\"", "bn": "ইবাদতে স্পষ্ট পার্থক্য: ‘তোমার দ্বীন তোমার, আমার দ্বীন আমার।’" }
+  },
+  {
+    "id": "al-kawthar", "number": 108, "ayahCount": 3,
+    "name": { "ar": "الكوثر", "en": "Al-Kawthar", "bn": "আল-কাউসার" },
+    "meaning": { "en": "Abundance", "bn": "প্রাচুর্য" },
+    "oneLineMeaning": { "en": "Allah's abundant gift — so pray and sacrifice.", "bn": "আল্লাহর অপার দান — তাই নামাজ পড়ো ও কুরবানি করো।" }
+  },
+  {
+    "id": "al-maun", "number": 107, "ayahCount": 7,
+    "name": { "ar": "الماعون", "en": "Al-Ma'un", "bn": "আল-মাউন" },
+    "meaning": { "en": "Small Kindnesses", "bn": "সামান্য সাহায্য" },
+    "oneLineMeaning": { "en": "Faith shows in how we treat the orphan and the needy.", "bn": "ঈমান প্রকাশ পায় এতিম ও অভাবীর প্রতি আচরণে।" }
+  },
+  {
+    "id": "quraysh", "number": 106, "ayahCount": 4,
+    "name": { "ar": "قريش", "en": "Quraysh", "bn": "কুরাইশ" },
+    "meaning": { "en": "Quraysh", "bn": "কুরাইশ" },
+    "oneLineMeaning": { "en": "Gratitude to the Lord who gives security and provision.", "bn": "যিনি নিরাপত্তা ও রিজিক দেন, সেই রবের প্রতি কৃতজ্ঞতা।" }
+  },
+  {
+    "id": "al-fil", "number": 105, "ayahCount": 5,
+    "name": { "ar": "الفيل", "en": "Al-Fil", "bn": "আল-ফীল" },
+    "meaning": { "en": "The Elephant", "bn": "হাতি" },
+    "oneLineMeaning": { "en": "How Allah defeated the army of the elephant.", "bn": "আল্লাহ কীভাবে হাতির বাহিনীকে পরাস্ত করলেন।" }
+  }
+]

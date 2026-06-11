@@ -1,0 +1,79 @@
+/* ============================================================
+   Design tokens — dark navy premium system
+   ============================================================ */
+:root {
+  /* === Core palette === */
+  --bg:          #070b14;
+  --card:        #0d1424;
+  --card2:       #111d30;
+  --accent:      #38bdf8;   /* sky blue — primary interactive */
+  --accent2:     #818cf8;   /* indigo — secondary, labels */
+  --accent3:     #34d399;   /* emerald — success, progress */
+  --gold:        #fbbf24;   /* amber — hadith, important */
+  --danger:      #f87171;
+
+  --text:        #e2e8f0;
+  --text-muted:  #94a3b8;
+
+  /* === Backward-compat aliases used in existing JS/views === */
+  --surface:      var(--card);
+  --surface-2:    var(--card2);
+  --ink:          var(--text);
+  --ink-soft:     var(--text-muted);
+  --ink-faint:    #64748b;
+  --primary:      var(--accent);
+  --primary-dark: #0ea5e9;
+  --primary-soft: rgba(56,189,248,0.10);
+  --accent-soft:  rgba(251,191,36,0.10);
+
+  /* === Borders === */
+  --border:      rgba(56,189,248,0.15);
+  --border-soft: rgba(56,189,248,0.07);
+
+  /* === Shadows (glow-based) === */
+  --shadow-sm: 0 2px 8px rgba(0,0,0,0.5);
+  --shadow-md: 0 4px 20px rgba(0,0,0,0.6), 0 0 40px rgba(56,189,248,0.05);
+  --shadow-lg: 0 8px 40px rgba(0,0,0,0.7), 0 0 80px rgba(56,189,248,0.08);
+
+  /* === Radius === */
+  --r-sm:   10px;
+  --r:      16px;
+  --r-lg:   22px;
+  --r-pill: 999px;
+
+  /* === Spacing === */
+  --s-1: 4px;  --s-2: 8px;  --s-3: 12px; --s-4: 16px;
+  --s-5: 24px; --s-6: 32px; --s-7: 48px; --s-8: 64px;
+
+  /* === Typography === */
+  --font-heading: 'Playfair Display', Georgia, serif;
+  --font-ui:      'Source Sans 3', system-ui, -apple-system, sans-serif;
+  --font-bn:      'Hind Siliguri', 'Noto Sans Bengali', system-ui, sans-serif;
+  --font-ar:      'Amiri', 'Scheherazade New', serif;
+
+  /* User-controlled text scale (A− / A+) */
+  --font-scale: 1;
+
+  --fs-base:    calc(1rem     * var(--font-scale));
+  --fs-sm:      calc(0.875rem * var(--font-scale));
+  --fs-lg:      calc(1.125rem * var(--font-scale));
+  --fs-xl:      calc(1.375rem * var(--font-scale));
+  --fs-2xl:     calc(1.75rem  * var(--font-scale));
+  --fs-3xl:     calc(2.25rem  * var(--font-scale));
+  --fs-ar:      calc(2.1rem   * var(--font-scale));
+  --fs-ar-sm:   calc(1.6rem   * var(--font-scale));
+  --fs-bn-body: calc(1.0625rem * var(--font-scale));
+
+  /* === Motion === */
+  --ease:     cubic-bezier(.4, 0, .2, 1);
+  --ease-out: cubic-bezier(.16, 1, .3, 1);
+  --dur-fast: 140ms;
+  --dur:      240ms;
+  --dur-slow: 360ms;
+
+  /* === Layout === */
+  --maxw:        720px;
+  --topbar-h:    64px;
+  --bottomnav-h: 68px;
+  --tap:         44px;
+}

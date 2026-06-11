@@ -1,0 +1,7 @@
+# Editor / harness config (not part of the website)
+.claude/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini

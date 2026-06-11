@@ -1,0 +1,21 @@
+/* ============================================================
+   Print — optimized for the Salah Companion Card (#/card)
+   ============================================================ */
+@media print {
+  .topbar, .bottomnav, .welcome, .backlink, .audiobtn, .knowbtn, .notice { display: none !important; }
+
+  html, body { background: #fff; color: #000; }
+  .app { max-width: 100%; padding: 0; }
+  .app > .view { animation: none; }
+
+  .pagehead__title { font-size: 20pt; }
+  .companion__row { break-inside: avoid; padding: 6pt 0; }
+  .companion__ar { font-size: 18pt; }
+  .companion__title { color: #000; }
+  .companion__mean { color: #333; }
+
+  .card { box-shadow: none; border: none; padding: 0; }
+  .ack { color: #555; }
+
+  @page { margin: 14mm; }
+}

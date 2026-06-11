@@ -1,0 +1,255 @@
+{
+  "id": "al-ikhlas",
+  "number": 112,
+  "ayahCount": 4,
+  "name": {
+    "ar": "الإخلاص",
+    "en": "Al-Ikhlas",
+    "bn": "আল-ইখলাস"
+  },
+  "meaning": {
+    "en": "Sincerity",
+    "bn": "একনিষ্ঠতা"
+  },
+  "oneLineMeaning": {
+    "en": "The pure declaration of Allah's oneness.",
+    "bn": "আল্লাহর একত্বের নির্ভেজাল ঘোষণা।"
+  },
+  "background": {
+    "en": "A short Meccan surah revealed when people asked the Prophet ﷺ to describe his Lord. Its answer is so complete that the Prophet ﷺ said it equals a third of the Qur'an — because the Qur'an's message rests on three themes, and this surah captures one of them entirely: who Allah is.",
+    "bn": "একটি ছোট মক্কী সূরা, যা তখন অবতীর্ণ হয় যখন লোকেরা নবী ﷺ-কে তাঁর রবের পরিচয় জানতে চেয়েছিল। এর উত্তর এতটাই পূর্ণাঙ্গ যে নবী ﷺ বলেছেন এটি কুরআনের এক-তৃতীয়াংশের সমান — কারণ কুরআনের বার্তা তিনটি মূল বিষয়ের উপর দাঁড়িয়ে, আর এই সূরা তার একটি — আল্লাহ কে — সম্পূর্ণভাবে ধারণ করে।"
+  },
+  "summary": {
+    "en": "Four verses that define pure tawhid: Allah is One; He is As-Samad (self-sufficient, the one all turn to); He was not born and gives birth to none; and nothing is comparable to Him.",
+    "bn": "চারটি আয়াত যা খাঁটি তাওহিদকে সংজ্ঞায়িত করে: আল্লাহ এক; তিনি আস-সামাদ (অমুখাপেক্ষী, সকলে যাঁর দিকে ফেরে); তিনি কাউকে জন্ম দেননি ও জন্মগ্রহণ করেননি; এবং কেউই তাঁর সমতুল্য নয়।"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+      "translation": {
+        "en": "Say: He is Allah, the One,",
+        "bn": "বলুন: তিনিই আল্লাহ, এক ও অদ্বিতীয়,"
+      },
+      "words": [
+        {
+          "ar": "قُلْ",
+          "tr": {
+            "en": "Qul",
+            "bn": "কুল"
+          },
+          "meaning": {
+            "en": "Say",
+            "bn": "বলুন"
+          }
+        },
+        {
+          "ar": "هُوَ",
+          "tr": {
+            "en": "huwa",
+            "bn": "হুওয়া"
+          },
+          "meaning": {
+            "en": "He is",
+            "bn": "তিনি"
+          }
+        },
+        {
+          "ar": "اللَّهُ",
+          "tr": {
+            "en": "llāhu",
+            "bn": "ল্লাহু"
+          },
+          "meaning": {
+            "en": "Allah",
+            "bn": "আল্লাহ"
+          }
+        },
+        {
+          "ar": "أَحَدٌ",
+          "tr": {
+            "en": "aḥad",
+            "bn": "আহাদ"
+          },
+          "meaning": {
+            "en": "the One",
+            "bn": "এক ও অদ্বিতীয়"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "arabic": "اللَّهُ الصَّمَدُ",
+      "translation": {
+        "en": "Allah, the Eternal, Self-Sufficient — on whom all depend.",
+        "bn": "আল্লাহ অমুখাপেক্ষী — সকলে যাঁর উপর নির্ভরশীল।"
+      },
+      "words": [
+        {
+          "ar": "اللَّهُ",
+          "tr": {
+            "en": "Allāhu",
+            "bn": "আল্লাহু"
+          },
+          "meaning": {
+            "en": "Allah",
+            "bn": "আল্লাহ"
+          }
+        },
+        {
+          "ar": "الصَّمَدُ",
+          "tr": {
+            "en": "aṣ-ṣamad",
+            "bn": "আস-সামাদ"
+          },
+          "meaning": {
+            "en": "the Self-Sufficient, eternally besought",
+            "bn": "অমুখাপেক্ষী, সকলের আশ্রয়"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "arabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+      "translation": {
+        "en": "He neither gives birth, nor was He born,",
+        "bn": "তিনি কাউকে জন্ম দেননি, এবং তাঁকেও জন্ম দেওয়া হয়নি,"
+      },
+      "words": [
+        {
+          "ar": "لَمْ",
+          "tr": {
+            "en": "Lam",
+            "bn": "লাম"
+          },
+          "meaning": {
+            "en": "not",
+            "bn": "না"
+          }
+        },
+        {
+          "ar": "يَلِدْ",
+          "tr": {
+            "en": "yalid",
+            "bn": "ইয়ালিদ"
+          },
+          "meaning": {
+            "en": "He gives birth",
+            "bn": "তিনি জন্ম দেন"
+          }
+        },
+        {
+          "ar": "وَلَمْ",
+          "tr": {
+            "en": "wa lam",
+            "bn": "ওয়া লাম"
+          },
+          "meaning": {
+            "en": "and not",
+            "bn": "এবং না"
+          }
+        },
+        {
+          "ar": "يُولَدْ",
+          "tr": {
+            "en": "yūlad",
+            "bn": "ইউলাদ"
+          },
+          "meaning": {
+            "en": "was He born",
+            "bn": "তাঁকে জন্ম দেওয়া হয়েছে"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "arabic": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+      "translation": {
+        "en": "and there is none comparable to Him.",
+        "bn": "এবং তাঁর সমতুল্য কেউ নেই।"
+      },
+      "words": [
+        {
+          "ar": "وَلَمْ",
+          "tr": {
+            "en": "Wa lam",
+            "bn": "ওয়া লাম"
+          },
+          "meaning": {
+            "en": "And not",
+            "bn": "এবং না"
+          }
+        },
+        {
+          "ar": "يَكُن",
+          "tr": {
+            "en": "yakun",
+            "bn": "ইয়াকুন"
+          },
+          "meaning": {
+            "en": "there is",
+            "bn": "আছে"
+          }
+        },
+        {
+          "ar": "لَّهُ",
+          "tr": {
+            "en": "lahu",
+            "bn": "লাহু"
+          },
+          "meaning": {
+            "en": "for Him",
+            "bn": "তাঁর জন্য"
+          }
+        },
+        {
+          "ar": "كُفُوًا",
+          "tr": {
+            "en": "kufuwan",
+            "bn": "কুফুওয়ান"
+          },
+          "meaning": {
+            "en": "equal / comparable",
+            "bn": "সমতুল্য"
+          }
+        },
+        {
+          "ar": "أَحَدٌ",
+          "tr": {
+            "en": "aḥad",
+            "bn": "আহাদ"
+          },
+          "meaning": {
+            "en": "anyone",
+            "bn": "কেউ"
+          }
+        }
+      ]
+    }
+  ],
+  "tafsir": {
+    "en": "\"Ahad\" means absolutely One — not one of a series, but unique with no partner or equal. \"As-Samad\" means everything needs Him while He needs nothing. The last two verses remove every false idea: Allah has no parents and no children, and nothing in creation resembles Him. This is the heart of Islam in four lines.",
+    "bn": "‘আহাদ’ অর্থ একেবারে এক — কোনো ধারাবাহিকতার এক নয়, বরং অদ্বিতীয়, যাঁর কোনো অংশীদার বা সমকক্ষ নেই। ‘আস-সামাদ’ অর্থ সবকিছু তাঁর মুখাপেক্ষী, অথচ তিনি কারো মুখাপেক্ষী নন। শেষ দুই আয়াত প্রতিটি ভুল ধারণা দূর করে: আল্লাহর কোনো পিতা-মাতা বা সন্তান নেই, এবং সৃষ্টির কোনো কিছুই তাঁর সদৃশ নয়। চার লাইনে এটিই ইসলামের প্রাণ।"
+  },
+  "lifeLessons": {
+    "en": "If Allah alone is As-Samad — the one everything turns to — then no person, job, or possession deserves the weight of total reliance. Knowing Him as One frees the heart from depending on things that cannot truly help.",
+    "bn": "যদি কেবল আল্লাহই আস-সামাদ হন — যাঁর দিকে সবকিছু ফেরে — তবে কোনো মানুষ, চাকরি বা সম্পদ পূর্ণ নির্ভরতার যোগ্য নয়। তাঁকে এক হিসেবে জানা অন্তরকে এমন জিনিসের উপর নির্ভরতা থেকে মুক্ত করে যা প্রকৃতপক্ষে সাহায্য করতে পারে না।"
+  },
+  "hadith": [
+    {
+      "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ تَعْدِلُ ثُلُثَ الْقُرْآنِ",
+      "transliteration": {
+        "en": "Qul huwa-llāhu aḥad taʿdilu thuluthal-Qur'ān",
+        "bn": "কুল হুওয়াল্লাহু আহাদ তা‘দিলু সুলুসাল কুরআন"
+      },
+      "text": {
+        "en": "The Prophet ﷺ said that \"Say, He is Allah, the One\" is equal to a third of the Qur'an.",
+        "bn": "নবী ﷺ বলেছেন, ‘কুল হুওয়াল্লাহু আহাদ’ কুরআনের এক-তৃতীয়াংশের সমান।"
+      },
+      "source": "Sahih al-Bukhari & Muslim"
+    }
+  ]
+}

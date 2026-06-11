@@ -1,0 +1,214 @@
+{
+  "steps": [
+    {
+      "id": "takbeer", "order": 1, "surahRef": null,
+      "position": { "en": "Standing · opening", "bn": "দাঁড়ানো · শুরু" },
+      "title": { "en": "Takbeer (Allahu Akbar)", "bn": "তাকবীর (আল্লাহু আকবার)" },
+      "arabic": "اللَّهُ أَكْبَر",
+      "transliteration": { "en": "Allāhu Akbar", "bn": "আল্লাহু আকবার" },
+      "meaning": { "en": "Allah is the Greatest.", "bn": "আল্লাহ সর্বশ্রেষ্ঠ।" },
+      "whyItMatters": { "en": "You raise your hands and leave the whole world behind you. With these two words you step out of your worries and into a conversation with your Creator.", "bn": "আপনি হাত তুলে গোটা দুনিয়াকে পেছনে ফেলে দেন। এই দুটি শব্দ দিয়ে আপনি দুশ্চিন্তা থেকে বেরিয়ে এসে আপনার স্রষ্টার সাথে কথোপকথনে প্রবেশ করেন।" },
+      "words": [
+        { "ar": "اللَّهُ", "tr": { "en": "Allāhu", "bn": "আল্লাহু" }, "meaning": { "en": "Allah", "bn": "আল্লাহ" } },
+        { "ar": "أَكْبَر", "tr": { "en": "Akbar", "bn": "আকবার" }, "meaning": { "en": "is the Greatest", "bn": "সর্বশ্রেষ্ঠ" } }
+      ]
+    },
+    {
+      "id": "thana", "order": 2, "surahRef": null,
+      "position": { "en": "Standing (Qiyam)", "bn": "দাঁড়ানো (কিয়াম)" },
+      "title": { "en": "Opening Supplication (Thana)", "bn": "সানা (উদ্বোধনী দোয়া)" },
+      "arabic": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ وَتَبَارَكَ اسْمُكَ وَتَعَالَى جَدُّكَ وَلَا إِلَٰهَ غَيْرُكَ",
+      "transliteration": { "en": "Subḥānaka-llāhumma wa biḥamdika, wa tabāraka-smuka, wa taʿālā jadduka, wa lā ilāha ghayruk", "bn": "সুবহানাকা আল্লাহুম্মা ওয়া বিহামদিকা, ওয়া তাবারাকাসমুকা, ওয়া তাআলা জাদ্দুকা, ওয়া লা ইলাহা গাইরুক" },
+      "meaning": { "en": "Glory be to You, O Allah, and all praise; blessed is Your name, exalted is Your majesty, and there is no god but You.", "bn": "হে আল্লাহ! আপনার পবিত্রতা ঘোষণা করছি এবং আপনার প্রশংসা করছি; আপনার নাম বরকতময়, আপনার মর্যাদা সমুন্নত, আর আপনি ছাড়া কোনো ইলাহ নেই।" },
+      "whyItMatters": { "en": "Before asking for anything, you begin by praising Allah and declaring that He alone is worthy of worship. Praise comes first; requests come later.", "bn": "কিছু চাওয়ার আগে আপনি আল্লাহর প্রশংসা দিয়ে শুরু করেন এবং ঘোষণা করেন যে কেবল তিনিই ইবাদতের যোগ্য। প্রশংসা আগে, চাওয়া পরে।" },
+      "words": [
+        { "ar": "سُبْحَانَكَ", "tr": { "en": "Subḥānaka", "bn": "সুবহানাকা" }, "meaning": { "en": "How perfect You are", "bn": "আপনি কতই পবিত্র" } },
+        { "ar": "اللَّهُمَّ", "tr": { "en": "Allāhumma", "bn": "আল্লাহুম্মা" }, "meaning": { "en": "O Allah", "bn": "হে আল্লাহ" } },
+        { "ar": "وَبِحَمْدِكَ", "tr": { "en": "wa biḥamdika", "bn": "ওয়া বিহামদিকা" }, "meaning": { "en": "and with Your praise", "bn": "এবং আপনার প্রশংসায়" } },
+        { "ar": "وَتَبَارَكَ", "tr": { "en": "wa tabāraka", "bn": "ওয়া তাবারাকা" }, "meaning": { "en": "and blessed is", "bn": "এবং বরকতময়" } },
+        { "ar": "اسْمُكَ", "tr": { "en": "asmuka", "bn": "আসমুকা" }, "meaning": { "en": "Your name", "bn": "আপনার নাম" } },
+        { "ar": "وَتَعَالَى", "tr": { "en": "wa taʿālā", "bn": "ওয়া তাআলা" }, "meaning": { "en": "and exalted is", "bn": "এবং মহান" } },
+        { "ar": "جَدُّكَ", "tr": { "en": "jadduka", "bn": "জাদ্দুকা" }, "meaning": { "en": "Your majesty", "bn": "আপনার মহত্ত্ব" } },
+        { "ar": "وَلَا إِلَٰهَ", "tr": { "en": "wa lā ilāha", "bn": "ওয়া লা ইলাহা" }, "meaning": { "en": "and there is no god", "bn": "এবং কোনো ইলাহ নেই" } },
+        { "ar": "غَيْرُكَ", "tr": { "en": "ghayruk", "bn": "গাইরুক" }, "meaning": { "en": "except You", "bn": "আপনি ছাড়া" } }
+      ]
+    },
+    {
+      "id": "taawwudh", "order": 3, "surahRef": null,
+      "position": { "en": "Standing (Qiyam)", "bn": "দাঁড়ানো (কিয়াম)" },
+      "title": { "en": "Ta'awwudh & Bismillah", "bn": "তাআউয ও বিসমিল্লাহ" },
+      "arabic": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ، بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "transliteration": { "en": "Aʿūdhu billāhi mina-sh-shayṭāni-r-rajīm. Bismillāhi-r-Raḥmāni-r-Raḥīm", "bn": "আউযু বিল্লাহি মিনাশ শাইতানির রাজীম। বিসমিল্লাহির রাহমানির রাহিম" },
+      "meaning": { "en": "I seek refuge in Allah from Satan, the outcast. In the name of Allah, the Most Gracious, the Most Merciful.", "bn": "আমি বিতাড়িত শয়তান থেকে আল্লাহর আশ্রয় চাই। পরম করুণাময় ও অতি দয়ালু আল্লাহর নামে।" },
+      "whyItMatters": { "en": "Said quietly before reciting the Qur'an, you ask Allah to protect your heart from distraction so you can truly hear His words.", "bn": "কুরআন তিলাওয়াতের আগে নিচু স্বরে বলা হয় — আপনি আল্লাহর কাছে চান যেন তিনি আপনার অন্তরকে বিক্ষিপ্ততা থেকে রক্ষা করেন, যাতে আপনি সত্যিই তাঁর বাণী শুনতে পারেন।" },
+      "words": [
+        { "ar": "أَعُوذُ", "tr": { "en": "Aʿūdhu", "bn": "আউযু" }, "meaning": { "en": "I seek refuge", "bn": "আমি আশ্রয় চাই" } },
+        { "ar": "بِاللَّهِ", "tr": { "en": "billāhi", "bn": "বিল্লাহি" }, "meaning": { "en": "in Allah", "bn": "আল্লাহর কাছে" } },
+        { "ar": "مِنَ الشَّيْطَانِ", "tr": { "en": "mina-sh-shayṭāni", "bn": "মিনাশ শাইতানি" }, "meaning": { "en": "from Satan", "bn": "শয়তান থেকে" } },
+        { "ar": "الرَّجِيمِ", "tr": { "en": "ar-rajīm", "bn": "আর-রাজীম" }, "meaning": { "en": "the outcast", "bn": "বিতাড়িত" } },
+        { "ar": "بِسْمِ", "tr": { "en": "Bismi", "bn": "বিসমি" }, "meaning": { "en": "In the name of", "bn": "নামে" } },
+        { "ar": "اللَّهِ", "tr": { "en": "Allāhi", "bn": "আল্লাহি" }, "meaning": { "en": "Allah", "bn": "আল্লাহ" } },
+        { "ar": "الرَّحْمَٰنِ", "tr": { "en": "ar-Raḥmāni", "bn": "আর-রাহমানি" }, "meaning": { "en": "the Most Gracious", "bn": "পরম করুণাময়" } },
+        { "ar": "الرَّحِيمِ", "tr": { "en": "ar-Raḥīmi", "bn": "আর-রাহীমি" }, "meaning": { "en": "the Most Merciful", "bn": "অতি দয়ালু" } }
+      ]
+    },
+    {
+      "id": "fatiha", "order": 4, "surahRef": "al-fatiha",
+      "position": { "en": "Standing (Qiyam)", "bn": "দাঁড়ানো (কিয়াম)" },
+      "title": { "en": "Surah Al-Fatiha", "bn": "সূরা আল-ফাতিহা" },
+      "arabic": "اَلْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+      "transliteration": { "en": "Al-ḥamdu lillāhi rabbi-l-ʿālamīn …", "bn": "আলহামদুলিল্লাহি রাব্বিল আলামীন …" },
+      "meaning": { "en": "Recite Surah Al-Fatiha — the heart of every rak'ah. Tap below to learn it word by word.", "bn": "সূরা ফাতিহা পড়ুন — প্রতিটি রাকাতের প্রাণ। শব্দে শব্দে শিখতে নিচে ট্যাপ করুন।" },
+      "whyItMatters": { "en": "Allah said: \"I have divided the prayer between Myself and My servant.\" Al-Fatiha is a living conversation — when you praise Him, He answers.", "bn": "আল্লাহ বলেছেন: ‘আমি নামাজকে আমার ও আমার বান্দার মধ্যে ভাগ করেছি।’ সূরা ফাতিহা একটি জীবন্ত কথোপকথন — আপনি যখন তাঁর প্রশংসা করেন, তিনি উত্তর দেন।" }
+    },
+    {
+      "id": "surah-after", "order": 5, "surahRef": "al-ikhlas",
+      "position": { "en": "Standing (Qiyam)", "bn": "দাঁড়ানো (কিয়াম)" },
+      "title": { "en": "A short surah", "bn": "একটি ছোট সূরা" },
+      "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+      "transliteration": { "en": "Qul huwa-llāhu aḥad …", "bn": "কুল হুওয়াল্লাহু আহাদ …" },
+      "meaning": { "en": "In the first two rak'ahs, recite any surah you know after Al-Fatiha — for example, Surah Al-Ikhlas.", "bn": "প্রথম দুই রাকাতে সূরা ফাতিহার পর আপনি যে সূরা জানেন তা পড়ুন — যেমন সূরা ইখলাস।" },
+      "whyItMatters": { "en": "This is your chance to bring the surahs you are learning into your prayer — so the meanings live in your Salah, not just on a page.", "bn": "আপনি যে সূরাগুলো শিখছেন, সেগুলো নামাজে আনার সুযোগ এটি — যাতে অর্থগুলো কেবল পাতায় নয়, আপনার নামাজে জীবন্ত হয়।" }
+    },
+    {
+      "id": "ruku", "order": 6, "surahRef": null,
+      "position": { "en": "Bowing (Ruku)", "bn": "রুকু (অবনত)" },
+      "title": { "en": "Ruku (bowing)", "bn": "রুকু" },
+      "arabic": "سُبْحَانَ رَبِّيَ الْعَظِيمِ",
+      "transliteration": { "en": "Subḥāna rabbiya-l-ʿaẓīm (×3)", "bn": "সুবহানা রব্বিয়াল আযীম (৩ বার)" },
+      "meaning": { "en": "Glory to my Lord, the Most Great. (said three times)", "bn": "আমার মহান রবের পবিত্রতা ঘোষণা করছি। (তিনবার)" },
+      "whyItMatters": { "en": "Your body bows to show that Allah is greater than you. You declare His greatness exactly when you are lowering yourself.", "bn": "আপনার দেহ অবনত হয়ে দেখায় যে আল্লাহ আপনার চেয়ে মহান। নিজেকে নিচু করার ঠিক সেই মুহূর্তেই আপনি তাঁর মহত্ত্ব ঘোষণা করেন।" },
+      "words": [
+        { "ar": "سُبْحَانَ", "tr": { "en": "Subḥāna", "bn": "সুবহানা" }, "meaning": { "en": "Glory / perfection be to", "bn": "পবিত্রতা" } },
+        { "ar": "رَبِّيَ", "tr": { "en": "rabbiya", "bn": "রব্বিয়া" }, "meaning": { "en": "my Lord", "bn": "আমার রব" } },
+        { "ar": "الْعَظِيمِ", "tr": { "en": "al-ʿaẓīm", "bn": "আল-আযীম" }, "meaning": { "en": "the Most Great", "bn": "মহান" } }
+      ]
+    },
+    {
+      "id": "itidal", "order": 7, "surahRef": null,
+      "position": { "en": "Standing up (I'tidal)", "bn": "সোজা হয়ে দাঁড়ানো (ইতিদাল)" },
+      "title": { "en": "Rising from Ruku (I'tidal)", "bn": "রুকু থেকে ওঠা (ইতিদাল)" },
+      "arabic": "سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ، رَبَّنَا وَلَكَ الْحَمْدُ",
+      "transliteration": { "en": "Samiʿa-llāhu liman ḥamidah. Rabbanā wa laka-l-ḥamd", "bn": "সামিআল্লাহু লিমান হামিদাহ। রব্বানা ওয়া লাকাল হামদ" },
+      "meaning": { "en": "Allah hears the one who praises Him. Our Lord, to You belongs all praise.", "bn": "আল্লাহ তার কথা শোনেন যে তাঁর প্রশংসা করে। হে আমাদের রব, সমস্ত প্রশংসা আপনারই।" },
+      "whyItMatters": { "en": "As you rise, you are reassured that Allah hears you. Standing straight again, you hand all praise back to Him.", "bn": "ওঠার সময় আপনি আশ্বস্ত হন যে আল্লাহ আপনার কথা শোনেন। আবার সোজা দাঁড়িয়ে আপনি সমস্ত প্রশংসা তাঁকেই ফিরিয়ে দেন।" },
+      "words": [
+        { "ar": "سَمِعَ", "tr": { "en": "samiʿa", "bn": "সামিআ" }, "meaning": { "en": "hears", "bn": "শোনেন" } },
+        { "ar": "اللَّهُ", "tr": { "en": "Allāhu", "bn": "আল্লাহু" }, "meaning": { "en": "Allah", "bn": "আল্লাহ" } },
+        { "ar": "لِمَنْ", "tr": { "en": "liman", "bn": "লিমান" }, "meaning": { "en": "the one who", "bn": "যে" } },
+        { "ar": "حَمِدَهُ", "tr": { "en": "ḥamidah", "bn": "হামিদাহ" }, "meaning": { "en": "praises Him", "bn": "তাঁর প্রশংসা করে" } },
+        { "ar": "رَبَّنَا", "tr": { "en": "Rabbanā", "bn": "রব্বানা" }, "meaning": { "en": "Our Lord", "bn": "হে আমাদের রব" } },
+        { "ar": "وَلَكَ", "tr": { "en": "wa laka", "bn": "ওয়া লাকা" }, "meaning": { "en": "and to You", "bn": "এবং আপনারই" } },
+        { "ar": "الْحَمْدُ", "tr": { "en": "al-ḥamd", "bn": "আল-হামদ" }, "meaning": { "en": "all praise", "bn": "সমস্ত প্রশংসা" } }
+      ]
+    },
+    {
+      "id": "sujood", "order": 8, "surahRef": null,
+      "position": { "en": "Prostration (Sujood)", "bn": "সিজদা" },
+      "title": { "en": "Sujood (prostration)", "bn": "সিজদা" },
+      "arabic": "سُبْحَانَ رَبِّيَ الْأَعْلَى",
+      "transliteration": { "en": "Subḥāna rabbiya-l-aʿlā (×3)", "bn": "সুবহানা রব্বিয়াল আ‘লা (৩ বার)" },
+      "meaning": { "en": "Glory to my Lord, the Most High. (said three times)", "bn": "আমার সর্বোচ্চ রবের পবিত্রতা ঘোষণা করছি। (তিনবার)" },
+      "whyItMatters": { "en": "The closest a servant comes to Allah is in sujood. Your highest part — your forehead — touches the ground before the Most High. This is the place to pour out your heart.", "bn": "বান্দা সিজদায় আল্লাহর সবচেয়ে নিকটবর্তী হয়। আপনার সর্বোচ্চ অঙ্গ — কপাল — সর্বোচ্চ সত্তার সামনে মাটিতে ঠেকে। এখানেই হৃদয় উজাড় করে দেওয়ার জায়গা।" },
+      "words": [
+        { "ar": "سُبْحَانَ", "tr": { "en": "Subḥāna", "bn": "সুবহানা" }, "meaning": { "en": "Glory be to", "bn": "পবিত্রতা" } },
+        { "ar": "رَبِّيَ", "tr": { "en": "rabbiya", "bn": "রব্বিয়া" }, "meaning": { "en": "my Lord", "bn": "আমার রব" } },
+        { "ar": "الْأَعْلَى", "tr": { "en": "al-aʿlā", "bn": "আল-আ‘লা" }, "meaning": { "en": "the Most High", "bn": "সর্বোচ্চ" } }
+      ]
+    },
+    {
+      "id": "jalsa", "order": 9, "surahRef": null,
+      "position": { "en": "Sitting (Jalsa)", "bn": "দুই সিজদার মাঝে বসা (জালসা)" },
+      "title": { "en": "Sitting between the two prostrations", "bn": "দুই সিজদার মাঝে বসা" },
+      "arabic": "رَبِّ اغْفِرْ لِي، رَبِّ اغْفِرْ لِي",
+      "transliteration": { "en": "Rabbi-ghfir lī, Rabbi-ghfir lī", "bn": "রব্বিগফিরলী, রব্বিগফিরলী" },
+      "meaning": { "en": "My Lord, forgive me. My Lord, forgive me.", "bn": "হে আমার রব, আমাকে ক্ষমা করুন। হে আমার রব, আমাকে ক্ষমা করুন।" },
+      "whyItMatters": { "en": "A short pause between two prostrations — and even here, the one thing you ask for is forgiveness.", "bn": "দুই সিজদার মাঝে এক মুহূর্তের বিরতি — এখানেও আপনি যা চান তা হলো ক্ষমা।" },
+      "words": [
+        { "ar": "رَبِّ", "tr": { "en": "Rabbi", "bn": "রব্বি" }, "meaning": { "en": "My Lord", "bn": "হে আমার রব" } },
+        { "ar": "اغْفِرْ", "tr": { "en": "ighfir", "bn": "ইগফির" }, "meaning": { "en": "forgive", "bn": "ক্ষমা করুন" } },
+        { "ar": "لِي", "tr": { "en": "lī", "bn": "লী" }, "meaning": { "en": "me", "bn": "আমাকে" } }
+      ]
+    },
+    {
+      "id": "tashahhud", "order": 10, "surahRef": null,
+      "position": { "en": "Sitting (Qa'dah)", "bn": "বসা (কা‘দাহ)" },
+      "title": { "en": "Tashahhud (At-Tahiyyat)", "bn": "তাশাহহুদ (আত-তাহিয়্যাত)" },
+      "arabic": "التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ، السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ، أَشْهَدُ أَنْ لَا إِلَٰهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
+      "transliteration": { "en": "At-taḥiyyātu lillāhi wa-ṣ-ṣalawātu wa-ṭ-ṭayyibāt. As-salāmu ʿalayka ayyuha-n-nabiyyu wa raḥmatu-llāhi wa barakātuh. As-salāmu ʿalaynā wa ʿalā ʿibādi-llāhi-ṣ-ṣāliḥīn. Ashhadu an lā ilāha illa-llāh, wa ashhadu anna Muḥammadan ʿabduhu wa rasūluh.", "bn": "আত-তাহিয়্যাতু লিল্লাহি ওয়াস সালাওয়াতু ওয়াত তাইয়িবাত। আস-সালামু আলাইকা আইয়ুহান নাবিয়্যু ওয়া রাহমাতুল্লাহি ওয়া বারাকাতুহ। আস-সালামু আলাইনা ওয়া আলা ইবাদিল্লাহিস সালিহীন। আশহাদু আন লা ইলাহা ইল্লাল্লাহ, ওয়া আশহাদু আন্না মুহাম্মাদান আবদুহু ওয়া রাসূলুহ।" },
+      "meaning": { "en": "All greetings, prayers and good things are for Allah. Peace be upon you, O Prophet, and Allah's mercy and blessings. Peace be upon us and upon the righteous servants of Allah. I bear witness that there is no god but Allah, and I bear witness that Muhammad is His servant and messenger.", "bn": "সমস্ত সম্মান, ইবাদত ও পবিত্র বিষয় আল্লাহরই জন্য। হে নবী, আপনার উপর শান্তি এবং আল্লাহর রহমত ও বরকত বর্ষিত হোক। শান্তি বর্ষিত হোক আমাদের উপর এবং আল্লাহর সৎ বান্দাদের উপর। আমি সাক্ষ্য দিচ্ছি যে আল্লাহ ছাড়া কোনো ইলাহ নেই, এবং সাক্ষ্য দিচ্ছি যে মুহাম্মদ তাঁর বান্দা ও রাসূল।" },
+      "whyItMatters": { "en": "Sitting before Allah, you offer Him every kind of worship, send peace to the Prophet ﷺ and the righteous, and renew the testimony of faith — the words that make you a Muslim.", "bn": "আল্লাহর সামনে বসে আপনি তাঁকে সব ধরনের ইবাদত নিবেদন করেন, নবী ﷺ ও সৎ বান্দাদের প্রতি শান্তি পাঠান, এবং ঈমানের সাক্ষ্য নবায়ন করেন — যে কথাগুলো আপনাকে মুসলিম করে।" },
+      "words": [
+        { "ar": "التَّحِيَّاتُ", "tr": { "en": "at-taḥiyyātu", "bn": "আত-তাহিয়্যাতু" }, "meaning": { "en": "all greetings", "bn": "সমস্ত সম্মান" } },
+        { "ar": "لِلَّهِ", "tr": { "en": "lillāhi", "bn": "লিল্লাহি" }, "meaning": { "en": "are for Allah", "bn": "আল্লাহরই জন্য" } },
+        { "ar": "وَالصَّلَوَاتُ", "tr": { "en": "wa-ṣ-ṣalawātu", "bn": "ওয়াস-সালাওয়াতু" }, "meaning": { "en": "and all prayers", "bn": "এবং সব ইবাদত" } },
+        { "ar": "وَالطَّيِّبَاتُ", "tr": { "en": "wa-ṭ-ṭayyibātu", "bn": "ওয়াত-তাইয়িবাতু" }, "meaning": { "en": "and all good things", "bn": "এবং সব পবিত্র বিষয়" } },
+        { "ar": "السَّلَامُ عَلَيْكَ", "tr": { "en": "as-salāmu ʿalayka", "bn": "আস-সালামু আলাইকা" }, "meaning": { "en": "peace be upon you", "bn": "আপনার উপর শান্তি" } },
+        { "ar": "أَيُّهَا النَّبِيُّ", "tr": { "en": "ayyuha-n-nabiyyu", "bn": "আইয়্যুহান-নাবিয়্যু" }, "meaning": { "en": "O Prophet", "bn": "হে নবী" } },
+        { "ar": "وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ", "tr": { "en": "wa raḥmatu-llāhi wa barakātuh", "bn": "ওয়া রাহমাতুল্লাহি ওয়া বারাকাতুহ" }, "meaning": { "en": "and Allah's mercy and blessings", "bn": "এবং আল্লাহর রহমত ও বরকত" } },
+        { "ar": "السَّلَامُ عَلَيْنَا", "tr": { "en": "as-salāmu ʿalaynā", "bn": "আস-সালামু আলাইনা" }, "meaning": { "en": "peace be upon us", "bn": "আমাদের উপর শান্তি" } },
+        { "ar": "وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ", "tr": { "en": "wa ʿalā ʿibādi-llāhi-ṣ-ṣāliḥīn", "bn": "ওয়া আলা ইবাদিল্লাহিস-সালিহীন" }, "meaning": { "en": "and upon the righteous servants of Allah", "bn": "এবং আল্লাহর সৎ বান্দাদের উপর" } },
+        { "ar": "أَشْهَدُ", "tr": { "en": "ashhadu", "bn": "আশহাদু" }, "meaning": { "en": "I bear witness", "bn": "আমি সাক্ষ্য দিচ্ছি" } },
+        { "ar": "أَنْ لَا إِلَٰهَ إِلَّا اللَّهُ", "tr": { "en": "an lā ilāha illā-llāh", "bn": "আন লা ইলাহা ইল্লাল্লাহ" }, "meaning": { "en": "that there is no god but Allah", "bn": "যে আল্লাহ ছাড়া কোনো ইলাহ নেই" } },
+        { "ar": "وَأَشْهَدُ أَنَّ مُحَمَّدًا", "tr": { "en": "wa ashhadu anna Muḥammadan", "bn": "ওয়া আশহাদু আন্না মুহাম্মাদান" }, "meaning": { "en": "and I witness that Muhammad", "bn": "এবং আমি সাক্ষ্য দিচ্ছি যে মুহাম্মদ" } },
+        { "ar": "عَبْدُهُ وَرَسُولُهُ", "tr": { "en": "ʿabduhu wa rasūluhu", "bn": "আবদুহু ওয়া রাসূলুহু" }, "meaning": { "en": "is His servant and messenger", "bn": "তাঁর বান্দা ও রাসূল" } }
+      ]
+    },
+    {
+      "id": "durood", "order": 11, "surahRef": null,
+      "position": { "en": "Sitting (Qa'dah)", "bn": "বসা (কা‘দাহ)" },
+      "title": { "en": "Durood Ibrahim (blessings on the Prophet ﷺ)", "bn": "দরুদ ইব্রাহিম" },
+      "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ، اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ",
+      "transliteration": { "en": "Allāhumma ṣalli ʿalā Muḥammad wa ʿalā āli Muḥammad, kamā ṣallayta ʿalā Ibrāhīm wa ʿalā āli Ibrāhīm, innaka ḥamīdun majīd. Allāhumma bārik ʿalā Muḥammad wa ʿalā āli Muḥammad, kamā bārakta ʿalā Ibrāhīm wa ʿalā āli Ibrāhīm, innaka ḥamīdun majīd.", "bn": "আল্লাহুম্মা সল্লি আলা মুহাম্মাদিন ওয়া আলা আলি মুহাম্মাদ, কামা সল্লাইতা আলা ইব্রাহীমা ওয়া আলা আলি ইব্রাহীম, ইন্নাকা হামীদুম মাজীদ। আল্লাহুম্মা বারিক আলা মুহাম্মাদিন ওয়া আলা আলি মুহাম্মাদ, কামা বারাকতা আলা ইব্রাহীমা ওয়া আলা আলি ইব্রাহীম, ইন্নাকা হামীদুম মাজীদ।" },
+      "meaning": { "en": "O Allah, send Your grace upon Muhammad and the family of Muhammad, as You sent it upon Ibrahim and his family; You are Praiseworthy, Most Glorious. O Allah, bless Muhammad and his family, as You blessed Ibrahim and his family; You are Praiseworthy, Most Glorious.", "bn": "হে আল্লাহ, মুহাম্মদ ও তাঁর পরিবারের উপর অনুগ্রহ বর্ষণ করুন, যেমন আপনি ইব্রাহিম ও তাঁর পরিবারের উপর করেছিলেন; নিশ্চয়ই আপনি প্রশংসিত, মহিমান্বিত। হে আল্লাহ, মুহাম্মদ ও তাঁর পরিবারের উপর বরকত দিন, যেমন আপনি ইব্রাহিম ও তাঁর পরিবারকে দিয়েছিলেন; নিশ্চয়ই আপনি প্রশংসিত, মহিমান্বিত।" },
+      "whyItMatters": { "en": "Having greeted the Prophet ﷺ, you now ask Allah to honour him — joining a chain of blessing that reaches back to Ibrahim (peace be upon them).", "bn": "নবী ﷺ-কে সালাম জানানোর পর আপনি এখন আল্লাহর কাছে তাঁকে সম্মানিত করার দোয়া করেন — ইব্রাহিম (আ.) পর্যন্ত পৌঁছানো বরকতের ধারায় যুক্ত হন।" },
+      "words": [
+        { "ar": "اللَّهُمَّ", "tr": { "en": "Allāhumma", "bn": "আল্লাহুম্মা" }, "meaning": { "en": "O Allah", "bn": "হে আল্লাহ" } },
+        { "ar": "صَلِّ عَلَى مُحَمَّدٍ", "tr": { "en": "ṣalli ʿalā Muḥammad", "bn": "সল্লি আলা মুহাম্মাদ" }, "meaning": { "en": "send grace upon Muhammad", "bn": "মুহাম্মদের উপর অনুগ্রহ বর্ষণ করুন" } },
+        { "ar": "وَعَلَى آلِ مُحَمَّدٍ", "tr": { "en": "wa ʿalā āli Muḥammad", "bn": "ওয়া আলা আলি মুহাম্মাদ" }, "meaning": { "en": "and his family", "bn": "এবং তাঁর পরিবারের উপর" } },
+        { "ar": "كَمَا صَلَّيْتَ", "tr": { "en": "kamā ṣallayta", "bn": "কামা সল্লাইতা" }, "meaning": { "en": "just as You sent it", "bn": "যেমন আপনি পাঠিয়েছিলেন" } },
+        { "ar": "عَلَى إِبْرَاهِيمَ وَآلِهِ", "tr": { "en": "ʿalā Ibrāhīm wa ālihi", "bn": "আলা ইব্রাহীমা ওয়া আলিহি" }, "meaning": { "en": "upon Ibrahim and his family", "bn": "ইব্রাহিম ও তাঁর পরিবারের উপর" } },
+        { "ar": "إِنَّكَ حَمِيدٌ مَجِيدٌ", "tr": { "en": "innaka ḥamīdun majīd", "bn": "ইন্নাকা হামীদুম মাজীদ" }, "meaning": { "en": "indeed You are Praiseworthy, Most Glorious", "bn": "নিশ্চয়ই আপনি প্রশংসিত, মহিমান্বিত" } },
+        { "ar": "بَارِكْ عَلَى مُحَمَّدٍ", "tr": { "en": "bārik ʿalā Muḥammad", "bn": "বারিক আলা মুহাম্মাদ" }, "meaning": { "en": "bless Muhammad", "bn": "মুহাম্মদকে বরকত দিন" } },
+        { "ar": "وَعَلَى آلِ مُحَمَّدٍ", "tr": { "en": "wa ʿalā āli Muḥammad", "bn": "ওয়া আলা আলি মুহাম্মাদ" }, "meaning": { "en": "and his family", "bn": "এবং তাঁর পরিবারকে" } },
+        { "ar": "كَمَا بَارَكْتَ", "tr": { "en": "kamā bārakta", "bn": "কামা বারাকতা" }, "meaning": { "en": "just as You blessed", "bn": "যেমন আপনি বরকত দিয়েছিলেন" } },
+        { "ar": "عَلَى إِبْرَاهِيمَ وَآلِهِ", "tr": { "en": "ʿalā Ibrāhīm wa ālihi", "bn": "আলা ইব্রাহীমা ওয়া আলিহি" }, "meaning": { "en": "upon Ibrahim and his family", "bn": "ইব্রাহিম ও তাঁর পরিবারকে" } }
+      ]
+    },
+    {
+      "id": "dua-before-salam", "order": 12, "surahRef": null,
+      "position": { "en": "Sitting (Qa'dah)", "bn": "বসা (কা‘দাহ)" },
+      "title": { "en": "Dua before Salaam", "bn": "সালামের আগের দোয়া" },
+      "arabic": "اللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِي ظُلْمًا كَثِيرًا، وَلَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ، فَاغْفِرْ لِي مَغْفِرَةً مِنْ عِنْدِكَ وَارْحَمْنِي، إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِيمُ",
+      "transliteration": { "en": "Allāhumma innī ẓalamtu nafsī ẓulman kathīrā, wa lā yaghfiru-dh-dhunūba illā anta, fa-ghfir lī maghfiratan min ʿindika wa-rḥamnī, innaka anta-l-Ghafūru-r-Raḥīm.", "bn": "আল্লাহুম্মা ইন্নী যালামতু নাফসী যুলমান কাসীরা, ওয়া লা ইয়াগফিরুয যুনূবা ইল্লা আনতা, ফাগফিরলী মাগফিরাতাম মিন ইনদিকা ওয়ারহামনী, ইন্নাকা আনতাল গাফূরুর রাহীম।" },
+      "meaning": { "en": "O Allah, I have wronged myself greatly, and none forgives sins except You. So grant me forgiveness from You and have mercy on me. Truly You are the Most Forgiving, the Most Merciful.", "bn": "হে আল্লাহ, আমি নিজের উপর অনেক জুলুম করেছি, আর আপনি ছাড়া কেউ গুনাহ ক্ষমা করতে পারে না। তাই আপনার পক্ষ থেকে আমাকে ক্ষমা করুন এবং আমার প্রতি দয়া করুন। নিশ্চয়ই আপনি অতি ক্ষমাশীল, পরম দয়ালু।" },
+      "whyItMatters": { "en": "The Prophet ﷺ taught this dua to recite before the final salaam. Just before you finish, you admit your faults and ask for mercy — leaving the prayer forgiven.", "bn": "নবী ﷺ শেষ সালামের আগে এই দোয়া পড়তে শিখিয়েছেন। শেষ করার ঠিক আগে আপনি নিজের ভুল স্বীকার করেন ও দয়া চান — ক্ষমাপ্রাপ্ত হয়ে নামাজ শেষ করেন।" },
+      "words": [
+        { "ar": "اللَّهُمَّ", "tr": { "en": "Allāhumma", "bn": "আল্লাহুম্মা" }, "meaning": { "en": "O Allah", "bn": "হে আল্লাহ" } },
+        { "ar": "إِنِّي ظَلَمْتُ نَفْسِي", "tr": { "en": "innī ẓalamtu nafsī", "bn": "ইন্নী যালামতু নাফসী" }, "meaning": { "en": "I have wronged myself", "bn": "আমি নিজের উপর জুলুম করেছি" } },
+        { "ar": "ظُلْمًا كَثِيرًا", "tr": { "en": "ẓulman kathīrā", "bn": "যুলমান কাসীরা" }, "meaning": { "en": "greatly / a lot", "bn": "অনেক বেশি" } },
+        { "ar": "وَلَا يَغْفِرُ الذُّنُوبَ", "tr": { "en": "wa lā yaghfiru-dh-dhunūba", "bn": "ওয়া লা ইয়াগফিরুয-যুনূবা" }, "meaning": { "en": "and none forgives sins", "bn": "এবং গুনাহ কেউ ক্ষমা করে না" } },
+        { "ar": "إِلَّا أَنْتَ", "tr": { "en": "illā anta", "bn": "ইল্লা আনতা" }, "meaning": { "en": "except You", "bn": "আপনি ছাড়া" } },
+        { "ar": "فَاغْفِرْ لِي", "tr": { "en": "fa-ghfir lī", "bn": "ফাগফিরলী" }, "meaning": { "en": "so forgive me", "bn": "তাই আমাকে ক্ষমা করুন" } },
+        { "ar": "مَغْفِرَةً مِنْ عِنْدِكَ", "tr": { "en": "maghfiratan min ʿindika", "bn": "মাগফিরাতাম মিন ইনদিকা" }, "meaning": { "en": "forgiveness from You", "bn": "আপনার পক্ষ থেকে ক্ষমা" } },
+        { "ar": "وَارْحَمْنِي", "tr": { "en": "wa-rḥamnī", "bn": "ওয়ারহামনী" }, "meaning": { "en": "and have mercy on me", "bn": "এবং আমার প্রতি দয়া করুন" } },
+        { "ar": "إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِيمُ", "tr": { "en": "innaka anta-l-Ghafūru-r-Raḥīm", "bn": "ইন্নাকা আনতাল-গাফূরুর-রাহীম" }, "meaning": { "en": "indeed You are the Most Forgiving, Most Merciful", "bn": "নিশ্চয়ই আপনি অতি ক্ষমাশীল, পরম দয়ালু" } }
+      ]
+    },
+    {
+      "id": "tasleem", "order": 13, "surahRef": null,
+      "position": { "en": "Sitting · ending", "bn": "বসা · সমাপ্তি" },
+      "title": { "en": "Tasleem (Assalamu Alaikum)", "bn": "সালাম ফেরানো (তাসলীম)" },
+      "arabic": "السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ",
+      "transliteration": { "en": "As-salāmu ʿalaykum wa raḥmatu-llāh (right, then left)", "bn": "আস-সালামু আলাইকুম ওয়া রাহমাতুল্লাহ (ডানে, পরে বামে)" },
+      "meaning": { "en": "Peace and the mercy of Allah be upon you. (turning the face right, then left)", "bn": "আপনার উপর শান্তি ও আল্লাহর রহমত বর্ষিত হোক। (মুখ ডানে, পরে বামে ফিরিয়ে)" },
+      "whyItMatters": { "en": "You end your prayer by giving peace — to the angels who record your deeds and to the believers around you. You came to Allah alone; you leave wishing peace on others.", "bn": "আপনি শান্তি বিতরণ করে নামাজ শেষ করেন — আপনার আমল লিপিবদ্ধকারী ফেরেশতাদের এবং চারপাশের মুমিনদের প্রতি। আপনি একাকী আল্লাহর কাছে এসেছিলেন; অন্যদের শান্তি কামনা করে ফিরে যান।" },
+      "words": [
+        { "ar": "السَّلَامُ", "tr": { "en": "as-salāmu", "bn": "আস-সালামু" }, "meaning": { "en": "peace", "bn": "শান্তি" } },
+        { "ar": "عَلَيْكُمْ", "tr": { "en": "ʿalaykum", "bn": "আলাইকুম" }, "meaning": { "en": "be upon you", "bn": "আপনাদের উপর" } },
+        { "ar": "وَرَحْمَةُ", "tr": { "en": "wa raḥmatu", "bn": "ওয়া রাহমাতু" }, "meaning": { "en": "and the mercy of", "bn": "এবং রহমত" } },
+        { "ar": "اللَّهِ", "tr": { "en": "Allāhi", "bn": "আল্লাহি" }, "meaning": { "en": "Allah", "bn": "আল্লাহর" } }
+      ]
+    }
+  ]
+}

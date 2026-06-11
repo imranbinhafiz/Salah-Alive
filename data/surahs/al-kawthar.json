@@ -1,0 +1,190 @@
+{
+  "id": "al-kawthar",
+  "number": 108,
+  "ayahCount": 3,
+  "name": {
+    "ar": "الكوثر",
+    "en": "Al-Kawthar",
+    "bn": "আল-কাউসার"
+  },
+  "meaning": {
+    "en": "Abundance",
+    "bn": "প্রাচুর্য"
+  },
+  "oneLineMeaning": {
+    "en": "Allah's abundant gift — so pray and sacrifice.",
+    "bn": "আল্লাহর অপার দান — তাই নামাজ পড়ো ও কুরবানি করো।"
+  },
+  "background": {
+    "en": "The shortest surah in the Qur'an, revealed in Mecca to comfort the Prophet ﷺ. After his sons died young, an enemy taunted that he was \"cut off\" with no legacy. Allah answered: it is the enemy who is cut off — the Prophet ﷺ is given al-Kawthar, abundance beyond measure.",
+    "bn": "কুরআনের সবচেয়ে ছোট সূরা, মক্কায় নবী ﷺ-কে সান্ত্বনা দিতে অবতীর্ণ। তাঁর পুত্ররা শৈশবে মারা যাওয়ার পর এক শত্রু বিদ্রূপ করেছিল যে তিনি ‘নির্বংশ’, তাঁর কোনো উত্তরাধিকার নেই। আল্লাহ জবাব দিলেন: প্রকৃতপক্ষে শত্রুই নির্মূল — নবী ﷺ-কে দেওয়া হয়েছে আল-কাউসার, অপরিমেয় প্রাচুর্য।"
+  },
+  "summary": {
+    "en": "Allah gives the Prophet ﷺ abundance (including a river in Paradise called al-Kawthar). The right response to such a gift is worship and sacrifice for Allah alone. And it is the hateful enemy, not the Prophet ﷺ, who is truly without future.",
+    "bn": "আল্লাহ নবী ﷺ-কে প্রাচুর্য দান করেন (জান্নাতে ‘আল-কাউসার’ নামক একটি নদীসহ)। এমন দানের সঠিক জবাব হলো কেবল আল্লাহর জন্য ইবাদত ও কুরবানি। আর যে শত্রু বিদ্বেষ পোষণ করে, নবী ﷺ নয় — সে-ই প্রকৃতপক্ষে ভবিষ্যৎহীন।"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "arabic": "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ",
+      "translation": {
+        "en": "Indeed, We have given you abundance (al-Kawthar).",
+        "bn": "নিশ্চয়ই আমরা আপনাকে কাউসার (প্রাচুর্য) দান করেছি।"
+      },
+      "words": [
+        {
+          "ar": "إِنَّا",
+          "tr": {
+            "en": "Innā",
+            "bn": "ইন্না"
+          },
+          "meaning": {
+            "en": "Indeed, We",
+            "bn": "নিশ্চয়ই আমরা"
+          }
+        },
+        {
+          "ar": "أَعْطَيْنَاكَ",
+          "tr": {
+            "en": "aʿṭaynāka",
+            "bn": "আ‘তাইনাকা"
+          },
+          "meaning": {
+            "en": "have given you",
+            "bn": "আপনাকে দিয়েছি"
+          }
+        },
+        {
+          "ar": "الْكَوْثَرَ",
+          "tr": {
+            "en": "al-kawthar",
+            "bn": "আল-কাউসার"
+          },
+          "meaning": {
+            "en": "abundance / al-Kawthar",
+            "bn": "প্রাচুর্য / কাউসার"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "arabic": "فَصَلِّ لِرَبِّكَ وَانْحَرْ",
+      "translation": {
+        "en": "So pray to your Lord and sacrifice.",
+        "bn": "অতএব আপনার রবের উদ্দেশ্যে নামাজ পড়ুন এবং কুরবানি করুন।"
+      },
+      "words": [
+        {
+          "ar": "فَصَلِّ",
+          "tr": {
+            "en": "Fa-ṣalli",
+            "bn": "ফাসাল্লি"
+          },
+          "meaning": {
+            "en": "So pray",
+            "bn": "অতএব নামাজ পড়ুন"
+          }
+        },
+        {
+          "ar": "لِرَبِّكَ",
+          "tr": {
+            "en": "li-rabbika",
+            "bn": "লিরব্বিকা"
+          },
+          "meaning": {
+            "en": "to your Lord",
+            "bn": "আপনার রবের জন্য"
+          }
+        },
+        {
+          "ar": "وَانْحَرْ",
+          "tr": {
+            "en": "wa-nḥar",
+            "bn": "ওয়ানহার"
+          },
+          "meaning": {
+            "en": "and sacrifice",
+            "bn": "এবং কুরবানি করুন"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "arabic": "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
+      "translation": {
+        "en": "Indeed, it is your enemy who is cut off.",
+        "bn": "নিশ্চয়ই আপনার শত্রুই নির্বংশ (নির্মূল)।"
+      },
+      "words": [
+        {
+          "ar": "إِنَّ",
+          "tr": {
+            "en": "Inna",
+            "bn": "ইন্না"
+          },
+          "meaning": {
+            "en": "Indeed",
+            "bn": "নিশ্চয়ই"
+          }
+        },
+        {
+          "ar": "شَانِئَكَ",
+          "tr": {
+            "en": "shāni'aka",
+            "bn": "শানিআকা"
+          },
+          "meaning": {
+            "en": "your hater / enemy",
+            "bn": "আপনার শত্রু"
+          }
+        },
+        {
+          "ar": "هُوَ",
+          "tr": {
+            "en": "huwa",
+            "bn": "হুওয়া"
+          },
+          "meaning": {
+            "en": "is the one",
+            "bn": "সে-ই"
+          }
+        },
+        {
+          "ar": "الْأَبْتَرُ",
+          "tr": {
+            "en": "al-abtar",
+            "bn": "আল-আবতার"
+          },
+          "meaning": {
+            "en": "cut off (without future)",
+            "bn": "নির্বংশ / নির্মূল"
+          }
+        }
+      ]
+    }
+  ],
+  "tafsir": {
+    "en": "\"Kawthar\" comes from a root meaning plentiful good — and includes a special river the Prophet ﷺ was promised in Paradise. The gift demands a response: \"pray and sacrifice\" — direct your worship and your offerings to Allah alone, not to idols. The last verse flips the insult: the one who mocked the Prophet ﷺ is the one history erased, while the Prophet's name is honoured in every call to prayer.",
+    "bn": "‘কাউসার’ এসেছে এমন এক মূল থেকে যার অর্থ প্রচুর কল্যাণ — এবং এতে রয়েছে জান্নাতে নবী ﷺ-কে প্রতিশ্রুত একটি বিশেষ নদী। এই দান একটি জবাব দাবি করে: ‘নামাজ পড়ো ও কুরবানি করো’ — আপনার ইবাদত ও উৎসর্গ কেবল আল্লাহর দিকে ফেরান, মূর্তির দিকে নয়। শেষ আয়াত বিদ্রূপটিকে উল্টে দেয়: যে নবী ﷺ-কে উপহাস করেছিল, ইতিহাস তাকেই মুছে দিয়েছে, অথচ নবীর নাম প্রতিটি আজানে সম্মানিত।"
+  },
+  "lifeLessons": {
+    "en": "When you feel belittled or \"left behind,\" remember that worth is measured by Allah, not by critics. The way to honour His gifts is to turn back to Him in worship — gratitude shown through action, not just words.",
+    "bn": "যখন আপনি অবমূল্যায়িত বা ‘পিছিয়ে পড়া’ অনুভব করেন, মনে রাখুন মূল্য নির্ধারণ করেন আল্লাহ, সমালোচকেরা নয়। তাঁর দানকে সম্মান করার উপায় হলো ইবাদতে তাঁর দিকে ফেরা — কেবল কথায় নয়, কাজে প্রকাশিত কৃতজ্ঞতা।"
+  },
+  "hadith": [
+    {
+      "arabic": "أَتَدْرُونَ مَا الْكَوْثَرُ؟ … نَهْرٌ أَعْطَانِيهِ رَبِّي",
+      "transliteration": {
+        "en": "Atadrūna ma-l-kawthar? … nahrun aʿṭānīhi rabbī",
+        "bn": "আতাদরূনা মাল কাউসার? … নাহরুন আ‘তানীহি রব্বী"
+      },
+      "text": {
+        "en": "The Prophet ﷺ said: \"Do you know what al-Kawthar is? It is a river my Lord has given me\" in Paradise — its water whiter than milk and sweeter than honey.",
+        "bn": "নবী ﷺ বলেছেন: ‘তোমরা কি জানো কাউসার কী? এটি একটি নদী যা আমার রব আমাকে দিয়েছেন’ জান্নাতে — যার পানি দুধের চেয়ে সাদা ও মধুর চেয়ে মিষ্টি।"
+      },
+      "source": "Sahih Muslim"
+    }
+  ]
+}

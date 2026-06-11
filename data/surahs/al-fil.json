@@ -1,0 +1,287 @@
+{
+  "id": "al-fil",
+  "number": 105,
+  "ayahCount": 5,
+  "name": {
+    "ar": "الفيل",
+    "en": "Al-Fil",
+    "bn": "আল-ফীল"
+  },
+  "meaning": {
+    "en": "The Elephant",
+    "bn": "হাতি"
+  },
+  "oneLineMeaning": {
+    "en": "How Allah defeated the army of the elephant.",
+    "bn": "আল্লাহ কীভাবে হাতির বাহিনীকে পরাস্ত করলেন।"
+  },
+  "background": {
+    "en": "A Meccan surah recalling an event in the year the Prophet ﷺ was born. Abraha, a ruler from Yemen, marched with an army — including an elephant — to destroy the Ka'bah. Allah destroyed the army before they could reach it. The Quraysh themselves witnessed this, so the surah reminds them of a favour they could not deny.",
+    "bn": "একটি মক্কী সূরা, যা নবী ﷺ-এর জন্মবর্ষের একটি ঘটনা স্মরণ করায়। ইয়েমেনের শাসক আবরাহা একটি বাহিনী — যাতে একটি হাতিও ছিল — নিয়ে কাবা ধ্বংস করতে অগ্রসর হয়। কাবায় পৌঁছানোর আগেই আল্লাহ সেই বাহিনীকে ধ্বংস করে দেন। কুরাইশরা নিজেরাই এটি প্রত্যক্ষ করেছিল, তাই সূরাটি তাদের এমন এক অনুগ্রহ স্মরণ করায় যা তারা অস্বীকার করতে পারত না।"
+  },
+  "summary": {
+    "en": "Allah asks us to look at history: a powerful army with an elephant came to destroy His House, and He turned their plan into ruin — sending flocks of birds that pelted them with stones until they were like chewed-up straw. No force can overpower Allah.",
+    "bn": "আল্লাহ আমাদের ইতিহাসের দিকে তাকাতে বলেন: হাতিসহ এক শক্তিশালী বাহিনী তাঁর ঘর ধ্বংস করতে এসেছিল, আর তিনি তাদের পরিকল্পনাকে ব্যর্থতায় পরিণত করলেন — ঝাঁকে ঝাঁকে পাখি পাঠিয়ে যারা তাদের পাথর ছুঁড়ে মারল যতক্ষণ না তারা চিবানো খড়ের মতো হয়ে গেল। কোনো শক্তিই আল্লাহকে পরাস্ত করতে পারে না।"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
+      "translation": {
+        "en": "Have you not seen how your Lord dealt with the companions of the elephant?",
+        "bn": "আপনি কি দেখেননি আপনার রব হাতিওয়ালাদের সাথে কেমন আচরণ করেছিলেন?"
+      },
+      "words": [
+        {
+          "ar": "أَلَمْ تَرَ",
+          "tr": {
+            "en": "Alam tara",
+            "bn": "আলাম তারা"
+          },
+          "meaning": {
+            "en": "Have you not seen",
+            "bn": "আপনি কি দেখেননি"
+          }
+        },
+        {
+          "ar": "كَيْفَ فَعَلَ",
+          "tr": {
+            "en": "kayfa faʿala",
+            "bn": "কাইফা ফা‘আলা"
+          },
+          "meaning": {
+            "en": "how dealt",
+            "bn": "কেমন আচরণ করেছিলেন"
+          }
+        },
+        {
+          "ar": "رَبُّكَ",
+          "tr": {
+            "en": "rabbuka",
+            "bn": "রব্বুকা"
+          },
+          "meaning": {
+            "en": "your Lord",
+            "bn": "আপনার রব"
+          }
+        },
+        {
+          "ar": "بِأَصْحَابِ الْفِيلِ",
+          "tr": {
+            "en": "bi-aṣḥābi-l-fīl",
+            "bn": "বিআসহাবিল ফীল"
+          },
+          "meaning": {
+            "en": "with the companions of the elephant",
+            "bn": "হাতিওয়ালাদের সাথে"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "arabic": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ",
+      "translation": {
+        "en": "Did He not make their plot go astray?",
+        "bn": "তিনি কি তাদের ষড়যন্ত্র ব্যর্থ করে দেননি?"
+      },
+      "words": [
+        {
+          "ar": "أَلَمْ يَجْعَلْ",
+          "tr": {
+            "en": "Alam yajʿal",
+            "bn": "আলাম ইয়াজ‘আল"
+          },
+          "meaning": {
+            "en": "Did He not make",
+            "bn": "তিনি কি করেননি"
+          }
+        },
+        {
+          "ar": "كَيْدَهُمْ",
+          "tr": {
+            "en": "kaydahum",
+            "bn": "কাইদাহুম"
+          },
+          "meaning": {
+            "en": "their plot",
+            "bn": "তাদের ষড়যন্ত্র"
+          }
+        },
+        {
+          "ar": "فِي تَضْلِيلٍ",
+          "tr": {
+            "en": "fī taḍlīl",
+            "bn": "ফী তাদলীল"
+          },
+          "meaning": {
+            "en": "go astray / fail",
+            "bn": "ব্যর্থ"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "arabic": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+      "translation": {
+        "en": "And He sent against them birds in flocks,",
+        "bn": "এবং তিনি তাদের বিরুদ্ধে ঝাঁকে ঝাঁকে পাখি পাঠালেন,"
+      },
+      "words": [
+        {
+          "ar": "وَأَرْسَلَ",
+          "tr": {
+            "en": "Wa arsala",
+            "bn": "ওয়া আরসালা"
+          },
+          "meaning": {
+            "en": "And He sent",
+            "bn": "এবং তিনি পাঠালেন"
+          }
+        },
+        {
+          "ar": "عَلَيْهِمْ",
+          "tr": {
+            "en": "ʿalayhim",
+            "bn": "আলাইহিম"
+          },
+          "meaning": {
+            "en": "against them",
+            "bn": "তাদের বিরুদ্ধে"
+          }
+        },
+        {
+          "ar": "طَيْرًا",
+          "tr": {
+            "en": "ṭayran",
+            "bn": "তাইরান"
+          },
+          "meaning": {
+            "en": "birds",
+            "bn": "পাখি"
+          }
+        },
+        {
+          "ar": "أَبَابِيلَ",
+          "tr": {
+            "en": "abābīl",
+            "bn": "আবাবীল"
+          },
+          "meaning": {
+            "en": "in flocks",
+            "bn": "ঝাঁকে ঝাঁকে"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "arabic": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+      "translation": {
+        "en": "striking them with stones of baked clay,",
+        "bn": "যারা তাদের পোড়ামাটির পাথর ছুঁড়ে মারছিল,"
+      },
+      "words": [
+        {
+          "ar": "تَرْمِيهِم",
+          "tr": {
+            "en": "Tarmīhim",
+            "bn": "তারমীহিম"
+          },
+          "meaning": {
+            "en": "striking them",
+            "bn": "তাদের আঘাত করছিল"
+          }
+        },
+        {
+          "ar": "بِحِجَارَةٍ",
+          "tr": {
+            "en": "bi-ḥijāratin",
+            "bn": "বিহিজারাতিন"
+          },
+          "meaning": {
+            "en": "with stones",
+            "bn": "পাথর দিয়ে"
+          }
+        },
+        {
+          "ar": "مِّن سِجِّيلٍ",
+          "tr": {
+            "en": "min sijjīl",
+            "bn": "মিন সিজ্জীল"
+          },
+          "meaning": {
+            "en": "of baked clay",
+            "bn": "পোড়ামাটির"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "arabic": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍ",
+      "translation": {
+        "en": "and made them like eaten-up straw.",
+        "bn": "অতঃপর তাদের চিবিয়ে খাওয়া খড়ের মতো করে দিলেন।"
+      },
+      "words": [
+        {
+          "ar": "فَجَعَلَهُمْ",
+          "tr": {
+            "en": "Fa-jaʿalahum",
+            "bn": "ফাজা‘আলাহুম"
+          },
+          "meaning": {
+            "en": "and He made them",
+            "bn": "অতঃপর তাদের করলেন"
+          }
+        },
+        {
+          "ar": "كَعَصْفٍ",
+          "tr": {
+            "en": "ka-ʿaṣfin",
+            "bn": "কা‘আসফিন"
+          },
+          "meaning": {
+            "en": "like straw",
+            "bn": "খড়ের মতো"
+          }
+        },
+        {
+          "ar": "مَّأْكُولٍ",
+          "tr": {
+            "en": "ma'kūl",
+            "bn": "মা’কূল"
+          },
+          "meaning": {
+            "en": "eaten-up",
+            "bn": "চিবিয়ে খাওয়া"
+          }
+        }
+      ]
+    }
+  ],
+  "tafsir": {
+    "en": "\"Have you not seen\" invites us to reflect on a real, witnessed event. The mightiest weapon of the age — a war elephant — and a large army meant nothing against Allah's will. He used the smallest of creatures, birds with little stones, to undo the largest. The lesson: do not measure outcomes by apparent strength; measure them by who Allah is with.",
+    "bn": "‘আপনি কি দেখেননি’ — এই আহ্বান আমাদের একটি বাস্তব, প্রত্যক্ষ ঘটনার উপর চিন্তা করতে বলে। যুগের সবচেয়ে শক্তিশালী অস্ত্র — একটি যুদ্ধহাতি — ও এক বিশাল বাহিনী আল্লাহর ইচ্ছার সামনে কিছুই ছিল না। তিনি সবচেয়ে ছোট সৃষ্টি — ছোট পাথরসহ পাখি — দিয়ে সবচেয়ে বড়টিকে নস্যাৎ করলেন। শিক্ষা: ফলাফলকে বাহ্যিক শক্তি দিয়ে মাপবেন না; মাপুন আল্লাহ কার সাথে আছেন তা দিয়ে।"
+  },
+  "lifeLessons": {
+    "en": "When you face something that looks unbeatable, remember the elephant. Allah can dismantle the strongest plans with the smallest means. Your job is to stand on the right side; the outcome is His to arrange.",
+    "bn": "যখন আপনি এমন কিছুর মুখোমুখি হন যা অপরাজেয় মনে হয়, হাতির কথা মনে করুন। আল্লাহ ক্ষুদ্রতম উপায়ে সবচেয়ে শক্তিশালী পরিকল্পনা ভেঙে দিতে পারেন। আপনার কাজ সঠিক পক্ষে দাঁড়ানো; ফলাফল সাজানো তাঁরই হাতে।"
+  },
+  "hadith": [
+    {
+      "arabic": "حَبَسَ الْفِيلَ عَنْ مَكَّةَ",
+      "transliteration": {
+        "en": "Ḥabasa-l-fīla ʿan Makkah",
+        "bn": "হাবাসাল ফীলা আন মাক্কাহ"
+      },
+      "text": {
+        "en": "On the day of the conquest of Mecca, the Prophet ﷺ said that Allah had held back the elephant from Mecca (in the past) — recalling this very event as a sign of the city's sacredness and Allah's protection of His House.",
+        "bn": "মক্কা বিজয়ের দিন নবী ﷺ বলেন, আল্লাহ (অতীতে) হাতিকে মক্কা থেকে আটকে দিয়েছিলেন — এই ঘটনাটিকেই নগরীর পবিত্রতা ও আল্লাহর ঘরের সুরক্ষার নিদর্শন হিসেবে স্মরণ করে।"
+      },
+      "source": "Sahih al-Bukhari & Muslim"
+    }
+  ]
+}

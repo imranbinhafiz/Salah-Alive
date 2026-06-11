@@ -1,0 +1,451 @@
+{
+  "id": "al-fatiha",
+  "number": 1,
+  "ayahCount": 7,
+  "name": {
+    "ar": "الفاتحة",
+    "en": "Al-Fatiha",
+    "bn": "আল-ফাতিহা"
+  },
+  "meaning": {
+    "en": "The Opening",
+    "bn": "সূচনা"
+  },
+  "oneLineMeaning": {
+    "en": "The opening prayer — recited in every rak'ah.",
+    "bn": "উদ্বোধনী দোয়া — প্রতিটি রাকাতে পঠিত।"
+  },
+  "background": {
+    "en": "Al-Fatiha, \"The Opening,\" was among the first complete surahs revealed in Mecca. It opens the Qur'an and is recited in every unit (rak'ah) of every prayer. It is also called Umm al-Kitab (Mother of the Book) because it holds the essence of the whole Qur'an, and Ash-Shifa (The Cure).",
+    "bn": "সূরা ফাতিহা — ‘সূচনা’ — মক্কায় অবতীর্ণ প্রথম পূর্ণাঙ্গ সূরাগুলোর একটি। এটি কুরআনের শুরু এবং প্রতিটি নামাজের প্রতিটি রাকাতে পঠিত হয়। পুরো কুরআনের সারমর্ম ধারণ করায় একে ‘উম্মুল কিতাব’ (কিতাবের মূল) এবং ‘আশ-শিফা’ (আরোগ্য) বলা হয়।"
+  },
+  "summary": {
+    "en": "Seven verses in two halves: the first half is praise that belongs to Allah (His lordship, mercy, and justice), and the second half is the servant's worship and request — above all, the plea for guidance to the straight path.",
+    "bn": "সাত আয়াত, দুই ভাগে: প্রথম ভাগ আল্লাহর প্রশংসা (তাঁর প্রভুত্ব, দয়া ও ন্যায়বিচার), আর দ্বিতীয় ভাগ বান্দার ইবাদত ও চাওয়া — সবচেয়ে বড় চাওয়া হলো সরল পথের হিদায়াত।"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "translation": {
+        "en": "In the name of Allah, the Most Gracious, the Most Merciful.",
+        "bn": "পরম করুণাময় ও অতি দয়ালু আল্লাহর নামে।"
+      },
+      "words": [
+        {
+          "ar": "بِسْمِ",
+          "tr": {
+            "en": "Bismi",
+            "bn": "বিসমি"
+          },
+          "meaning": {
+            "en": "In the name of",
+            "bn": "নামে"
+          }
+        },
+        {
+          "ar": "اللَّهِ",
+          "tr": {
+            "en": "llāhi",
+            "bn": "ল্লাহি"
+          },
+          "meaning": {
+            "en": "Allah",
+            "bn": "আল্লাহর"
+          }
+        },
+        {
+          "ar": "الرَّحْمَٰنِ",
+          "tr": {
+            "en": "ar-Raḥmāni",
+            "bn": "আর-রাহমানি"
+          },
+          "meaning": {
+            "en": "the Most Gracious",
+            "bn": "পরম দয়াময়"
+          }
+        },
+        {
+          "ar": "الرَّحِيمِ",
+          "tr": {
+            "en": "ar-Raḥīm",
+            "bn": "আর-রাহিম"
+          },
+          "meaning": {
+            "en": "the Most Merciful",
+            "bn": "অতি দয়ালু"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+      "translation": {
+        "en": "All praise is for Allah, Lord of all the worlds —",
+        "bn": "সমস্ত প্রশংসা আল্লাহর, যিনি সকল জগতের প্রতিপালক —"
+      },
+      "words": [
+        {
+          "ar": "الْحَمْدُ",
+          "tr": {
+            "en": "Al-ḥamdu",
+            "bn": "আল-হামদু"
+          },
+          "meaning": {
+            "en": "All praise",
+            "bn": "সমস্ত প্রশংসা"
+          }
+        },
+        {
+          "ar": "لِلَّهِ",
+          "tr": {
+            "en": "lillāhi",
+            "bn": "লিল্লাহি"
+          },
+          "meaning": {
+            "en": "is for Allah",
+            "bn": "আল্লাহর জন্য"
+          }
+        },
+        {
+          "ar": "رَبِّ",
+          "tr": {
+            "en": "rabbi",
+            "bn": "রব্বি"
+          },
+          "meaning": {
+            "en": "the Lord of",
+            "bn": "প্রতিপালক"
+          }
+        },
+        {
+          "ar": "الْعَالَمِينَ",
+          "tr": {
+            "en": "al-ʿālamīn",
+            "bn": "আল-আলামীন"
+          },
+          "meaning": {
+            "en": "all the worlds",
+            "bn": "সমস্ত জগতের"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "arabic": "الرَّحْمَٰنِ الرَّحِيمِ",
+      "translation": {
+        "en": "the Most Gracious, the Most Merciful,",
+        "bn": "যিনি পরম করুণাময়, অতি দয়ালু,"
+      },
+      "words": [
+        {
+          "ar": "الرَّحْمَٰنِ",
+          "tr": {
+            "en": "Ar-Raḥmāni",
+            "bn": "আর-রাহমানি"
+          },
+          "meaning": {
+            "en": "the Most Gracious",
+            "bn": "পরম দয়াময়"
+          }
+        },
+        {
+          "ar": "الرَّحِيمِ",
+          "tr": {
+            "en": "ar-Raḥīm",
+            "bn": "আর-রাহিম"
+          },
+          "meaning": {
+            "en": "the Most Merciful",
+            "bn": "অতি দয়ালু"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "arabic": "مَالِكِ يَوْمِ الدِّينِ",
+      "translation": {
+        "en": "Master of the Day of Judgment.",
+        "bn": "বিচার দিনের মালিক।"
+      },
+      "words": [
+        {
+          "ar": "مَالِكِ",
+          "tr": {
+            "en": "Māliki",
+            "bn": "মালিকি"
+          },
+          "meaning": {
+            "en": "Master of",
+            "bn": "মালিক"
+          }
+        },
+        {
+          "ar": "يَوْمِ",
+          "tr": {
+            "en": "yawmi",
+            "bn": "ইয়াওমি"
+          },
+          "meaning": {
+            "en": "the Day of",
+            "bn": "দিনের"
+          }
+        },
+        {
+          "ar": "الدِّينِ",
+          "tr": {
+            "en": "ad-dīn",
+            "bn": "আদ-দীন"
+          },
+          "meaning": {
+            "en": "Judgment / Recompense",
+            "bn": "বিচার / প্রতিদান"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "arabic": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+      "translation": {
+        "en": "You alone we worship, and You alone we ask for help.",
+        "bn": "আমরা কেবল আপনারই ইবাদত করি এবং কেবল আপনার কাছেই সাহায্য চাই।"
+      },
+      "words": [
+        {
+          "ar": "إِيَّاكَ",
+          "tr": {
+            "en": "Iyyāka",
+            "bn": "ইয়্যাকা"
+          },
+          "meaning": {
+            "en": "You alone",
+            "bn": "শুধু আপনাকেই"
+          }
+        },
+        {
+          "ar": "نَعْبُدُ",
+          "tr": {
+            "en": "naʿbudu",
+            "bn": "না‘বুদু"
+          },
+          "meaning": {
+            "en": "we worship",
+            "bn": "আমরা ইবাদত করি"
+          }
+        },
+        {
+          "ar": "وَإِيَّاكَ",
+          "tr": {
+            "en": "wa iyyāka",
+            "bn": "ওয়া ইয়্যাকা"
+          },
+          "meaning": {
+            "en": "and You alone",
+            "bn": "এবং শুধু আপনার কাছেই"
+          }
+        },
+        {
+          "ar": "نَسْتَعِينُ",
+          "tr": {
+            "en": "nastaʿīn",
+            "bn": "নাস্তাঈন"
+          },
+          "meaning": {
+            "en": "we ask for help",
+            "bn": "সাহায্য চাই"
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+      "translation": {
+        "en": "Guide us to the straight path —",
+        "bn": "আমাদের সরল পথ দেখান —"
+      },
+      "words": [
+        {
+          "ar": "اهْدِنَا",
+          "tr": {
+            "en": "Ihdinā",
+            "bn": "ইহদিনা"
+          },
+          "meaning": {
+            "en": "Guide us",
+            "bn": "আমাদের পথ দেখান"
+          }
+        },
+        {
+          "ar": "الصِّرَاطَ",
+          "tr": {
+            "en": "aṣ-ṣirāṭa",
+            "bn": "আস-সিরাতা"
+          },
+          "meaning": {
+            "en": "to the path",
+            "bn": "পথ"
+          }
+        },
+        {
+          "ar": "الْمُسْتَقِيمَ",
+          "tr": {
+            "en": "al-mustaqīm",
+            "bn": "আল-মুস্তাকীম"
+          },
+          "meaning": {
+            "en": "the straight",
+            "bn": "সরল / সঠিক"
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "arabic": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+      "translation": {
+        "en": "the path of those You have blessed — not of those who earned anger, nor of those who went astray.",
+        "bn": "তাদের পথ, যাদের আপনি অনুগ্রহ করেছেন; যাদের উপর গজব পড়েছে তাদের নয়, এবং পথভ্রষ্টদেরও নয়।"
+      },
+      "words": [
+        {
+          "ar": "صِرَاطَ",
+          "tr": {
+            "en": "Ṣirāṭa",
+            "bn": "সিরাতা"
+          },
+          "meaning": {
+            "en": "the path of",
+            "bn": "পথ"
+          }
+        },
+        {
+          "ar": "الَّذِينَ",
+          "tr": {
+            "en": "alladhīna",
+            "bn": "আল্লাযীনা"
+          },
+          "meaning": {
+            "en": "those whom",
+            "bn": "যাদের"
+          }
+        },
+        {
+          "ar": "أَنْعَمْتَ",
+          "tr": {
+            "en": "anʿamta",
+            "bn": "আন‘আমতা"
+          },
+          "meaning": {
+            "en": "You have blessed",
+            "bn": "আপনি অনুগ্রহ করেছেন"
+          }
+        },
+        {
+          "ar": "عَلَيْهِمْ",
+          "tr": {
+            "en": "ʿalayhim",
+            "bn": "আলাইহিম"
+          },
+          "meaning": {
+            "en": "upon them",
+            "bn": "তাদের উপর"
+          }
+        },
+        {
+          "ar": "غَيْرِ",
+          "tr": {
+            "en": "ghayri",
+            "bn": "গাইরি"
+          },
+          "meaning": {
+            "en": "not (of)",
+            "bn": "নয়"
+          }
+        },
+        {
+          "ar": "الْمَغْضُوبِ",
+          "tr": {
+            "en": "al-maghḍūbi",
+            "bn": "আল-মাগদূবি"
+          },
+          "meaning": {
+            "en": "those who earned anger",
+            "bn": "গজবপ্রাপ্তদের"
+          }
+        },
+        {
+          "ar": "عَلَيْهِمْ",
+          "tr": {
+            "en": "ʿalayhim",
+            "bn": "আলাইহিম"
+          },
+          "meaning": {
+            "en": "upon them",
+            "bn": "তাদের উপর"
+          }
+        },
+        {
+          "ar": "وَلَا",
+          "tr": {
+            "en": "wa lā",
+            "bn": "ওয়া লা"
+          },
+          "meaning": {
+            "en": "and not",
+            "bn": "এবং নয়"
+          }
+        },
+        {
+          "ar": "الضَّالِّينَ",
+          "tr": {
+            "en": "aḍ-ḍāllīn",
+            "bn": "আদ-দ-ল্লীন"
+          },
+          "meaning": {
+            "en": "those who went astray",
+            "bn": "পথভ্রষ্টদের"
+          }
+        }
+      ]
+    }
+  ],
+  "tafsir": {
+    "en": "We begin with Allah's name and His mercy (Ar-Rahman: mercy to all creation; Ar-Rahim: special mercy for the believers). We praise Him as Lord — the One who creates, sustains, and nurtures everything. We remember the Day of Judgment, so hope and awe stay balanced. Then comes the turning point: \"You alone we worship, and You alone we ask for help\" — pure tawhid. Finally we ask for the one thing we need most: to be kept on the straight path, the path of the prophets and the righteous.",
+    "bn": "আমরা শুরু করি আল্লাহর নাম ও তাঁর দয়া দিয়ে (আর-রাহমান: সমগ্র সৃষ্টির প্রতি দয়া; আর-রাহিম: মুমিনদের জন্য বিশেষ দয়া)। আমরা তাঁকে রব হিসেবে প্রশংসা করি — যিনি সবকিছু সৃষ্টি করেন, লালন করেন ও পরিচালনা করেন। আমরা বিচার দিবস স্মরণ করি, যাতে আশা ও ভয়ের ভারসাম্য থাকে। এরপর আসে মোড় ঘোরানো বাক্য: ‘আমরা কেবল আপনারই ইবাদত করি এবং কেবল আপনার কাছেই সাহায্য চাই’ — খাঁটি তাওহিদ। অবশেষে আমরা সবচেয়ে প্রয়োজনীয় জিনিসটি চাই: সরল পথে অটল থাকা — নবী ও সৎকর্মশীলদের পথ।"
+  },
+  "lifeLessons": {
+    "en": "Every day, many times a day, you reset your compass: praise before requests, mercy before fear, and total reliance on Allah. The surah trains you to ask for guidance constantly — because knowing the right path is not enough; staying on it is the real need.",
+    "bn": "প্রতিদিন, দিনে বহুবার, আপনি আপনার দিকনির্দেশনা নতুন করে ঠিক করেন: চাওয়ার আগে প্রশংসা, ভয়ের আগে দয়া, এবং আল্লাহর উপর পূর্ণ নির্ভরতা। সূরাটি আপনাকে অবিরত হিদায়াত চাইতে শেখায় — কারণ সঠিক পথ জানা যথেষ্ট নয়; সেই পথে অটল থাকাই আসল প্রয়োজন।"
+  },
+  "hadith": [
+    {
+      "arabic": "لَا صَلَاةَ لِمَنْ لَمْ يَقْرَأْ بِفَاتِحَةِ الْكِتَابِ",
+      "transliteration": {
+        "en": "Lā ṣalāta liman lam yaqra' bi-Fātiḥati-l-Kitāb",
+        "bn": "লা সালাতা লিমান লাম ইয়াকরা’ বিফাতিহাতিল কিতাব"
+      },
+      "text": {
+        "en": "\"There is no prayer for the one who does not recite the Opening of the Book (Al-Fatiha).\"",
+        "bn": "‘যে ব্যক্তি সূরা ফাতিহা পড়ে না, তার নামাজ হয় না।’"
+      },
+      "source": "Sahih al-Bukhari & Muslim"
+    },
+    {
+      "arabic": "قَسَمْتُ الصَّلَاةَ بَيْنِي وَبَيْنَ عَبْدِي نِصْفَيْنِ",
+      "transliteration": {
+        "en": "Qasamtu-ṣ-ṣalāta baynī wa bayna ʿabdī niṣfayn",
+        "bn": "কাসামতুস সালাতা বাইনী ওয়া বাইনা আবদী নিসফাইন"
+      },
+      "text": {
+        "en": "Allah said: \"I have divided the prayer between Myself and My servant in two halves… When the servant says, 'All praise is for Allah, Lord of all the worlds,' Allah says, 'My servant has praised Me.'\" (a hadith qudsi) — showing Al-Fatiha is a living conversation with Allah.",
+        "bn": "আল্লাহ বলেন: ‘আমি নামাজকে আমার ও আমার বান্দার মধ্যে দুই ভাগে ভাগ করেছি… বান্দা যখন বলে, “সমস্ত প্রশংসা আল্লাহর, সকল জগতের প্রতিপালক,” আল্লাহ বলেন, “আমার বান্দা আমার প্রশংসা করেছে।”’ (হাদিসে কুদসি) — এটি দেখায় সূরা ফাতিহা আল্লাহর সাথে এক জীবন্ত কথোপকথন।"
+      },
+      "source": "Sahih Muslim"
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "id": "al-masad",
+  "number": 111,
+  "ayahCount": 5,
+  "name": {
+    "ar": "المسد",
+    "en": "Al-Masad",
+    "bn": "আল-মাসাদ"
+  },
+  "meaning": {
+    "en": "The Palm Fiber",
+    "bn": "পাকানো রশি"
+  },
+  "oneLineMeaning": {
+    "en": "The ruin of Abu Lahab, who opposed the truth.",
+    "bn": "সত্যবিরোধী আবু লাহাবের পরিণতি।"
+  },
+  "background": {
+    "en": "A Meccan surah. When the Prophet ﷺ climbed Mount Safa and warned his clan, his uncle Abu Lahab sneered, \"May you perish! Did you gather us for this?\" This surah answered him — naming a specific enemy of Islam and his fate, a sign that the Qur'an's warnings are true.",
+    "bn": "একটি মক্কী সূরা। নবী ﷺ যখন সাফা পাহাড়ে উঠে তাঁর গোত্রকে সতর্ক করলেন, তখন তাঁর চাচা আবু লাহাব বিদ্রূপ করে বলল, ‘তুমি ধ্বংস হও! এজন্যই কি আমাদের জড়ো করেছ?’ এই সূরা তার জবাব দিল — ইসলামের এক নির্দিষ্ট শত্রু ও তার পরিণতির নাম উল্লেখ করে, যা কুরআনের সতর্কবাণীর সত্যতার প্রমাণ।"
+  },
+  "summary": {
+    "en": "Abu Lahab's wealth and status could not save him from his opposition to the truth. He and his wife — who used to harm the Prophet ﷺ — are promised the Fire. A reminder that no lineage or money outweighs faith.",
+    "bn": "আবু লাহাবের সম্পদ ও মর্যাদা সত্যের বিরোধিতা থেকে তাকে বাঁচাতে পারেনি। সে ও তার স্ত্রী — যে নবী ﷺ-কে কষ্ট দিত — উভয়কে আগুনের প্রতিশ্রুতি দেওয়া হয়েছে। এটি স্মরণ করায় যে কোনো বংশ বা অর্থ ঈমানের চেয়ে বড় নয়।"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "arabic": "تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ",
+      "translation": {
+        "en": "May the hands of Abu Lahab perish, and may he perish.",
+        "bn": "আবু লাহাবের হাত ধ্বংস হোক, এবং সে নিজেও ধ্বংস হোক।"
+      },
+      "words": [
+        {
+          "ar": "تَبَّتْ",
+          "tr": {
+            "en": "Tabbat",
+            "bn": "তাব্বাত"
+          },
+          "meaning": {
+            "en": "May they perish",
+            "bn": "ধ্বংস হোক"
+          }
+        },
+        {
+          "ar": "يَدَا",
+          "tr": {
+            "en": "yadā",
+            "bn": "ইয়াদা"
+          },
+          "meaning": {
+            "en": "the two hands of",
+            "bn": "দুই হাত"
+          }
+        },
+        {
+          "ar": "أَبِي لَهَبٍ",
+          "tr": {
+            "en": "abī lahab",
+            "bn": "আবী লাহাব"
+          },
+          "meaning": {
+            "en": "Abu Lahab",
+            "bn": "আবু লাহাবের"
+          }
+        },
+        {
+          "ar": "وَتَبَّ",
+          "tr": {
+            "en": "wa tabb",
+            "bn": "ওয়া তাব্ব"
+          },
+          "meaning": {
+            "en": "and may he perish",
+            "bn": "এবং সে ধ্বংস হোক"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "arabic": "مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ",
+      "translation": {
+        "en": "His wealth and what he earned will not avail him.",
+        "bn": "তার সম্পদ ও সে যা উপার্জন করেছে, কিছুই তার কাজে আসবে না।"
+      },
+      "words": [
+        {
+          "ar": "مَا أَغْنَىٰ",
+          "tr": {
+            "en": "Mā aghnā",
+            "bn": "মা আগনা"
+          },
+          "meaning": {
+            "en": "It did not avail",
+            "bn": "কাজে আসেনি"
+          }
+        },
+        {
+          "ar": "عَنْهُ",
+          "tr": {
+            "en": "ʿanhu",
+            "bn": "আনহু"
+          },
+          "meaning": {
+            "en": "him",
+            "bn": "তার"
+          }
+        },
+        {
+          "ar": "مَالُهُ",
+          "tr": {
+            "en": "māluhu",
+            "bn": "মালুহু"
+          },
+          "meaning": {
+            "en": "his wealth",
+            "bn": "তার সম্পদ"
+          }
+        },
+        {
+          "ar": "وَمَا كَسَبَ",
+          "tr": {
+            "en": "wa mā kasab",
+            "bn": "ওয়া মা কাসাব"
+          },
+          "meaning": {
+            "en": "and what he earned",
+            "bn": "এবং যা সে উপার্জন করেছে"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "arabic": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+      "translation": {
+        "en": "He will burn in a Fire of blazing flames,",
+        "bn": "সে শীঘ্রই লেলিহান শিখার আগুনে প্রবেশ করবে,"
+      },
+      "words": [
+        {
+          "ar": "سَيَصْلَىٰ",
+          "tr": {
+            "en": "Sa-yaṣlā",
+            "bn": "সাইয়াসলা"
+          },
+          "meaning": {
+            "en": "He will burn in",
+            "bn": "সে প্রবেশ করবে"
+          }
+        },
+        {
+          "ar": "نَارًا",
+          "tr": {
+            "en": "nāran",
+            "bn": "নারান"
+          },
+          "meaning": {
+            "en": "a Fire",
+            "bn": "আগুনে"
+          }
+        },
+        {
+          "ar": "ذَاتَ لَهَبٍ",
+          "tr": {
+            "en": "dhāta lahab",
+            "bn": "যাতা লাহাব"
+          },
+          "meaning": {
+            "en": "of blazing flames",
+            "bn": "লেলিহান শিখাবিশিষ্ট"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "arabic": "وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ",
+      "translation": {
+        "en": "and his wife, the carrier of firewood,",
+        "bn": "এবং তার স্ত্রীও — কাঠ বহনকারিণী,"
+      },
+      "words": [
+        {
+          "ar": "وَامْرَأَتُهُ",
+          "tr": {
+            "en": "wa-mra'atuhu",
+            "bn": "ওয়াম্রাআতুহু"
+          },
+          "meaning": {
+            "en": "and his wife",
+            "bn": "এবং তার স্ত্রী"
+          }
+        },
+        {
+          "ar": "حَمَّالَةَ",
+          "tr": {
+            "en": "ḥammālata",
+            "bn": "হাম্মালাতা"
+          },
+          "meaning": {
+            "en": "the carrier of",
+            "bn": "বহনকারিণী"
+          }
+        },
+        {
+          "ar": "الْحَطَبِ",
+          "tr": {
+            "en": "al-ḥaṭab",
+            "bn": "আল-হাতাব"
+          },
+          "meaning": {
+            "en": "firewood",
+            "bn": "কাঠ"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "arabic": "فِي جِيدِهَا حَبْلٌ مِّن مَّسَدٍ",
+      "translation": {
+        "en": "around her neck a rope of twisted palm fiber.",
+        "bn": "তার গলায় থাকবে পাকানো রশির হার।"
+      },
+      "words": [
+        {
+          "ar": "فِي جِيدِهَا",
+          "tr": {
+            "en": "Fī jīdihā",
+            "bn": "ফী জীদিহা"
+          },
+          "meaning": {
+            "en": "around her neck",
+            "bn": "তার গলায়"
+          }
+        },
+        {
+          "ar": "حَبْلٌ",
+          "tr": {
+            "en": "ḥablun",
+            "bn": "হাবলুন"
+          },
+          "meaning": {
+            "en": "a rope",
+            "bn": "একটি রশি"
+          }
+        },
+        {
+          "ar": "مِّن مَّسَدٍ",
+          "tr": {
+            "en": "min masad",
+            "bn": "মিম মাসাদ"
+          },
+          "meaning": {
+            "en": "of twisted palm fiber",
+            "bn": "পাকানো আঁশের"
+          }
+        }
+      ]
+    }
+  ],
+  "tafsir": {
+    "en": "Abu Lahab (\"father of flame\") was the Prophet's own uncle, yet his close blood-tie meant nothing without faith. His wealth — which he was proud of — could not buy him safety. His wife, who would scatter thorns in the Prophet's path, shared his fate. The surah shows that opposing the truth, no matter how rich or well-connected you are, leads only to loss.",
+    "bn": "আবু লাহাব (‘আগুনের পিতা’) ছিল নবীর আপন চাচা, তবু ঈমান ছাড়া এই নিকট রক্তসম্পর্ক কোনো কাজে আসেনি। যে সম্পদ নিয়ে সে গর্ব করত, তা তাকে নিরাপত্তা কিনে দিতে পারেনি। তার স্ত্রী, যে নবীর পথে কাঁটা ছড়াত, তার পরিণতির অংশীদার হলো। সূরাটি দেখায়, যত ধনী বা প্রভাবশালীই হোক, সত্যের বিরোধিতা কেবল ক্ষতির দিকেই নিয়ে যায়।"
+  },
+  "lifeLessons": {
+    "en": "Status, money, and family name give nothing before Allah without faith and good deeds. And actively harming others — like Abu Lahab's wife — is recorded, even in small acts. What saves a person is not what they have, but how they respond to the truth.",
+    "bn": "ঈমান ও সৎকর্ম ছাড়া মর্যাদা, অর্থ ও বংশপরিচয় আল্লাহর কাছে কিছুই দেয় না। আর অন্যকে সক্রিয়ভাবে কষ্ট দেওয়া — আবু লাহাবের স্ত্রীর মতো — ছোট কাজ হলেও তা লিপিবদ্ধ হয়। মানুষকে যা বাঁচায় তা তার সম্পদ নয়, বরং সত্যের প্রতি তার সাড়া।"
+  },
+  "hadith": [
+    {
+      "arabic": "يَا صَبَاحَاهْ … فَقَالَ أَبُو لَهَبٍ: تَبًّا لَكَ",
+      "transliteration": {
+        "en": "Yā ṣabāḥāh… fa-qāla Abū Lahab: tabban lak",
+        "bn": "ইয়া সাবাহাহ… ফাকালা আবু লাহাব: তাব্বান লাক"
+      },
+      "text": {
+        "en": "The Prophet ﷺ gathered Quraysh at Mount Safa and warned them of a coming punishment. Abu Lahab replied, \"May you perish! Is this why you gathered us?\" — and this surah was revealed in response.",
+        "bn": "নবী ﷺ সাফা পাহাড়ে কুরাইশদের জড়ো করে আসন্ন শাস্তির সতর্কবাণী দিলেন। আবু লাহাব বলল, ‘তুমি ধ্বংস হও! এজন্যই কি আমাদের জড়ো করেছ?’ — এর জবাবেই এই সূরা অবতীর্ণ হয়।"
+      },
+      "source": "Sahih al-Bukhari"
+    }
+  ]
+}

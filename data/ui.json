@@ -1,0 +1,71 @@
+{
+  "appName":   { "en": "Salah Alive", "bn": "Salah Alive" },
+  "heroTitle": { "en": "Salah Alive", "bn": "Salah Alive" },
+
+  "nav": {
+    "home":   { "en": "Home",   "bn": "হোম" },
+    "salah":  { "en": "Salah",  "bn": "নামাজ" },
+    "surahs": { "en": "Surahs", "bn": "সূরা" },
+    "review": { "en": "Review", "bn": "রিভিউ" }
+  },
+
+  "home": {
+    "quote":       { "en": "Understand what you say in every Salah — and feel it, word by word.", "bn": " নামাজে আপনি যা বলেন, তা বুঝুন — প্রতিটি শব্দসহ অনুভব করুন।" },
+    "progressLabel": { "en": "Surahs learned", "bn": "শেখা সূরা" },
+    "salahTitle":  { "en": "Salah, start to finish", "bn": "নামাজ — শুরু থেকে শেষ" },
+    "salahDesc":   { "en": "Every word you say in prayer, in order — with its meaning and why it matters.", "bn": "নামাজে আপনি যা যা বলেন, ক্রম অনুযায়ী — অর্থ ও তাৎপর্যসহ।" },
+    "surahsTitle": { "en": "Beginner Surahs", "bn": "শুরুর সূরাসমূহ" },
+    "surahsDesc":  { "en": "Al-Fatiha and the short surahs — Arabic, meaning, and word by word.", "bn": "সূরা ফাতিহা ও ছোট সূরাগুলো — আরবি, অর্থ এবং শব্দে শব্দে।" },
+    "start":       { "en": "Begin", "bn": "শুরু করুন" }
+  },
+
+  "surahs": {
+    "kicker": { "en": "Module 1", "bn": "মডিউল ১" },
+    "title":  { "en": "Surah Library", "bn": "সূরা সংগ্রহ" },
+    "sub":    { "en": "Start with Al-Fatiha, then the short surahs from An-Nas backward.", "bn": "সূরা ফাতিহা দিয়ে শুরু করুন, এরপর সূরা নাস থেকে পেছনের দিকে ছোট সূরাগুলো।" }
+  },
+
+  "salah": {
+    "kicker": { "en": "Module 2", "bn": "মডিউল ২" },
+    "title":  { "en": "Salah, start to finish", "bn": "নামাজ — শুরু থেকে শেষ" },
+    "sub":    { "en": "Follow every position and word of prayer, in order.", "bn": "নামাজের প্রতিটি অবস্থান ও শব্দ ক্রম অনুযায়ী অনুসরণ করুন।" }
+  },
+
+  "review": {
+    "kicker":      { "en": "Quick Review", "bn": "দ্রুত রিভিউ" },
+    "title":       { "en": "Quick Review", "bn": "দ্রুত রিভিউ" },
+    "sub":         { "en": "Distraction-free — just Arabic and meaning. Good right before Salah.", "bn": "মনোযোগ-বিঘ্নহীন — শুধু আরবি ও অর্থ। নামাজের ঠিক আগে উপযুক্ত।" },
+    "salah":       { "en": "Salah duas", "bn": "নামাজের দোয়া" },
+    "surahsLabel": { "en": "Or a surah", "bn": "অথবা একটি সূরা" },
+    "back":        { "en": "Quick Review", "bn": "দ্রুত রিভিউ" }
+  },
+
+  "labels": {
+    "tapWord":      { "en": "Tap a word to see its meaning", "bn": "অর্থ দেখতে একটি শব্দে ট্যাপ করুন" },
+    "playAyah":     { "en": "Play this verse", "bn": "এই আয়াত শুনুন" },
+    "listen":       { "en": "Listen", "bn": "শুনুন" },
+    "playSurah":    { "en": "Play surah", "bn": "সূরা শুনুন" },
+    "iKnowThis":    { "en": "I know this", "bn": "আমি এটি জানি" },
+    "known":        { "en": "Learned", "bn": "শেখা হয়েছে" },
+    "background":   { "en": "Background", "bn": "পটভূমি" },
+    "summary":      { "en": "Summary", "bn": "সারসংক্ষেপ" },
+    "tafsir":       { "en": "Tafsir (simple explanation)", "bn": "তাফসির (সহজ ব্যাখ্যা)" },
+    "lifeLessons":  { "en": "Life lessons", "bn": "জীবনের শিক্ষা" },
+    "reflection":   { "en": "Reflection questions", "bn": "ভাবনার প্রশ্ন" },
+    "hadith":       { "en": "Related hadith", "bn": "সম্পর্কিত হাদিস" },
+    "pronWords":    { "en": "Word by word", "bn": "শব্দে শব্দে অর্থ" },
+    "pronunciation":{ "en": "Pronunciation", "bn": "উচ্চারণ" },
+    "wordByWord":   { "en": "Word by word", "bn": "শব্দে শব্দে" },
+    "whyItMatters": { "en": "Why it matters", "bn": "কেন এটি গুরুত্বপূর্ণ" },
+    "openSurah":    { "en": "Open this surah", "bn": "এই সূরাটি খুলুন" },
+    "allSurahs":    { "en": "All surahs", "bn": "সব সূরা" },
+    "ayahs":        { "en": "verses", "bn": "আয়াত" },
+    "surahNav":     { "en": "Surah navigation", "bn": "সূরা নেভিগেশন" },
+    "reviewNotice": { "en": "", "bn": "" }
+  },
+
+  "notFound": {
+    "title": { "en": "Page not found", "bn": "পৃষ্ঠা পাওয়া যায়নি" },
+    "body":  { "en": "That page doesn't exist.", "bn": "এই পৃষ্ঠাটি নেই।" }
+  }
+}

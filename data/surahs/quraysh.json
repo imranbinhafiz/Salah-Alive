@@ -1,0 +1,244 @@
+{
+  "id": "quraysh",
+  "number": 106,
+  "ayahCount": 4,
+  "name": {
+    "ar": "قريش",
+    "en": "Quraysh",
+    "bn": "কুরাইশ"
+  },
+  "meaning": {
+    "en": "Quraysh",
+    "bn": "কুরাইশ"
+  },
+  "oneLineMeaning": {
+    "en": "Gratitude to the Lord who gives security and provision.",
+    "bn": "যিনি নিরাপত্তা ও রিজিক দেন, সেই রবের প্রতি কৃতজ্ঞতা।"
+  },
+  "background": {
+    "en": "A Meccan surah, closely linked to Surah Al-Fil before it. Because Allah protected the Ka'bah from the elephant army, the Quraysh enjoyed honour and safety, which let them travel for trade in winter (to Yemen) and summer (to Syria). This surah says: since Allah gave you all this, worship Him.",
+    "bn": "একটি মক্কী সূরা, এর পূর্ববর্তী সূরা ফীলের সাথে ঘনিষ্ঠভাবে যুক্ত। আল্লাহ কাবাকে হাতির বাহিনী থেকে রক্ষা করেছিলেন বলে কুরাইশরা সম্মান ও নিরাপত্তা ভোগ করত, যা তাদের শীতে (ইয়েমেনে) ও গ্রীষ্মে (সিরিয়ায়) বাণিজ্যযাত্রার সুযোগ দিয়েছিল। এই সূরা বলে: যেহেতু আল্লাহ তোমাদের এসব দিয়েছেন, তাঁরই ইবাদত করো।"
+  },
+  "summary": {
+    "en": "Two everyday blessings the Quraysh took for granted — safe trade routes and freedom from fear — are traced back to their true Source. The conclusion is simple: let them worship the Lord of this House, who fed them and kept them safe.",
+    "bn": "কুরাইশরা যে দুটি দৈনন্দিন নিয়ামতকে স্বাভাবিক ধরে নিত — নিরাপদ বাণিজ্যপথ ও ভয়হীনতা — সেগুলোর প্রকৃত উৎসের দিকে ফিরিয়ে নেওয়া হয়। উপসংহার সহজ: তারা যেন এই ঘরের রবের ইবাদত করে, যিনি তাদের খাইয়েছেন ও নিরাপদ রেখেছেন।"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "arabic": "لِإِيلَافِ قُرَيْشٍ",
+      "translation": {
+        "en": "For the security of the Quraysh —",
+        "bn": "কুরাইশের নিরাপত্তা ও অভ্যস্ততার জন্য —"
+      },
+      "words": [
+        {
+          "ar": "لِإِيلَافِ",
+          "tr": {
+            "en": "Li-īlāfi",
+            "bn": "লি-ঈলাফি"
+          },
+          "meaning": {
+            "en": "For the security / bonding of",
+            "bn": "নিরাপত্তা / অভ্যস্ততার জন্য"
+          }
+        },
+        {
+          "ar": "قُرَيْشٍ",
+          "tr": {
+            "en": "Quraysh",
+            "bn": "কুরাইশ"
+          },
+          "meaning": {
+            "en": "the Quraysh",
+            "bn": "কুরাইশের"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "arabic": "إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ",
+      "translation": {
+        "en": "their security in the journey of winter and summer —",
+        "bn": "শীত ও গ্রীষ্মের সফরে তাদের নিরাপত্তা ও অভ্যস্ততার জন্য —"
+      },
+      "words": [
+        {
+          "ar": "إِيلَافِهِمْ",
+          "tr": {
+            "en": "Īlāfihim",
+            "bn": "ঈলাফিহিম"
+          },
+          "meaning": {
+            "en": "their security",
+            "bn": "তাদের অভ্যস্ততা"
+          }
+        },
+        {
+          "ar": "رِحْلَةَ",
+          "tr": {
+            "en": "riḥlata",
+            "bn": "রিহলাতা"
+          },
+          "meaning": {
+            "en": "the journey of",
+            "bn": "সফর"
+          }
+        },
+        {
+          "ar": "الشِّتَاءِ",
+          "tr": {
+            "en": "ash-shitā'i",
+            "bn": "আশ-শিতাই"
+          },
+          "meaning": {
+            "en": "winter",
+            "bn": "শীত"
+          }
+        },
+        {
+          "ar": "وَالصَّيْفِ",
+          "tr": {
+            "en": "wa-ṣ-ṣayf",
+            "bn": "ওয়াস সাইফ"
+          },
+          "meaning": {
+            "en": "and summer",
+            "bn": "ও গ্রীষ্ম"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "arabic": "فَلْيَعْبُدُوا رَبَّ هَٰذَا الْبَيْتِ",
+      "translation": {
+        "en": "let them worship the Lord of this House,",
+        "bn": "তারা যেন এই ঘরের (কাবার) রবের ইবাদত করে,"
+      },
+      "words": [
+        {
+          "ar": "فَلْيَعْبُدُوا",
+          "tr": {
+            "en": "Fa-l-yaʿbudū",
+            "bn": "ফালইয়া‘বুদূ"
+          },
+          "meaning": {
+            "en": "so let them worship",
+            "bn": "তারা যেন ইবাদত করে"
+          }
+        },
+        {
+          "ar": "رَبَّ",
+          "tr": {
+            "en": "rabba",
+            "bn": "রব্বা"
+          },
+          "meaning": {
+            "en": "the Lord of",
+            "bn": "রব"
+          }
+        },
+        {
+          "ar": "هَٰذَا الْبَيْتِ",
+          "tr": {
+            "en": "hādha-l-bayt",
+            "bn": "হাযাল বাইত"
+          },
+          "meaning": {
+            "en": "this House (the Ka'bah)",
+            "bn": "এই ঘর (কাবা)"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "arabic": "الَّذِي أَطْعَمَهُم مِّن جُوعٍ وَآمَنَهُم مِّنْ خَوْفٍ",
+      "translation": {
+        "en": "who fed them against hunger and made them safe from fear.",
+        "bn": "যিনি তাদের ক্ষুধায় খাইয়েছেন এবং ভয় থেকে নিরাপদ করেছেন।"
+      },
+      "words": [
+        {
+          "ar": "الَّذِي",
+          "tr": {
+            "en": "Alladhī",
+            "bn": "আল্লাযী"
+          },
+          "meaning": {
+            "en": "the One who",
+            "bn": "যিনি"
+          }
+        },
+        {
+          "ar": "أَطْعَمَهُم",
+          "tr": {
+            "en": "aṭʿamahum",
+            "bn": "আত‘আমাহুম"
+          },
+          "meaning": {
+            "en": "fed them",
+            "bn": "তাদের খাইয়েছেন"
+          }
+        },
+        {
+          "ar": "مِّن جُوعٍ",
+          "tr": {
+            "en": "min jūʿin",
+            "bn": "মিন জূ‘ইন"
+          },
+          "meaning": {
+            "en": "against hunger",
+            "bn": "ক্ষুধা থেকে"
+          }
+        },
+        {
+          "ar": "وَآمَنَهُم",
+          "tr": {
+            "en": "wa āmanahum",
+            "bn": "ওয়া আমানাহুম"
+          },
+          "meaning": {
+            "en": "and made them safe",
+            "bn": "এবং নিরাপদ করেছেন"
+          }
+        },
+        {
+          "ar": "مِّنْ خَوْفٍ",
+          "tr": {
+            "en": "min khawf",
+            "bn": "মিন খাওফ"
+          },
+          "meaning": {
+            "en": "from fear",
+            "bn": "ভয় থেকে"
+          }
+        }
+      ]
+    }
+  ],
+  "tafsir": {
+    "en": "The surah takes two things the Quraysh were proud of — their trade and their safety — and gently reminds them these are gifts, not achievements. Food and security are two of the deepest human needs; both came from \"the Lord of this House.\" Therefore the only fitting response is to worship Him, not the idols placed around His House.",
+    "bn": "সূরাটি কুরাইশদের গর্বের দুটি বিষয় — তাদের বাণিজ্য ও নিরাপত্তা — তুলে ধরে কোমলভাবে স্মরণ করায় যে এগুলো অর্জন নয়, দান। খাদ্য ও নিরাপত্তা মানুষের দুটি গভীরতম প্রয়োজন; দুটিই এসেছে ‘এই ঘরের রব’-এর কাছ থেকে। তাই একমাত্র যথাযথ জবাব হলো তাঁরই ইবাদত করা, তাঁর ঘরের চারপাশে রাখা মূর্তির নয়।"
+  },
+  "lifeLessons": {
+    "en": "The blessings we notice least — a meal, a safe home, a calm night — are often the greatest. Gratitude means tracing them back to Allah and letting that turn into worship. Comfort should make us closer to Him, not forgetful of Him.",
+    "bn": "যে নিয়ামতগুলো আমরা সবচেয়ে কম খেয়াল করি — এক বেলা খাবার, একটি নিরাপদ ঘর, একটি শান্ত রাত — সেগুলোই প্রায়ই সবচেয়ে বড়। কৃতজ্ঞতা মানে সেগুলোকে আল্লাহর দিকে ফিরিয়ে নেওয়া এবং তা ইবাদতে রূপ দেওয়া। স্বাচ্ছন্দ্য আমাদের তাঁর কাছাকাছি করা উচিত, তাঁকে ভুলিয়ে দেওয়া নয়।"
+  },
+  "hadith": [
+    {
+      "arabic": "إِنَّ اللَّهَ فَضَّلَ قُرَيْشًا بِسَبْعِ خِصَالٍ",
+      "transliteration": {
+        "en": "Inna-llāha faḍḍala Qurayshan bi-sabʿi khiṣāl",
+        "bn": "ইন্নাল্লাহা ফাদ্দালা কুরাইশান বিসাব‘ই খিসাল"
+      },
+      "text": {
+        "en": "Reports mention that the Quraysh were given particular honour as keepers of the Ka'bah — the very favour this surah tells them to repay with worship of its Lord, not pride in themselves.",
+        "bn": "বর্ণনায় এসেছে কুরাইশদের কাবার রক্ষক হিসেবে বিশেষ সম্মান দেওয়া হয়েছিল — সেই অনুগ্রহই এই সূরা তাদের নিজেদের নিয়ে গর্ব নয়, বরং কাবার রবের ইবাদত দিয়ে শোধ করতে বলে।"
+      },
+      "source": "Sahih Muslim (on the honour of Quraysh)"
+    }
+  ]
+}
