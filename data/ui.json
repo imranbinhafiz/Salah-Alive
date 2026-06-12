@@ -6,7 +6,7 @@
     "home":   { "en": "Home",   "bn": "হোম" },
     "salah":  { "en": "Salah",  "bn": "নামাজ" },
     "surahs": { "en": "Surahs", "bn": "সূরা" },
-    "review": { "en": "Review", "bn": "রিভিউ" }
+    "review": { "en": "Quick Review", "bn": "দ্রুত রিভিউ" }
   },
 
   "home": {
